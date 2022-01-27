@@ -4,7 +4,7 @@ Emotet 2022
 
 Epoch4 - xls > .hta > .ps > .dll - 27/01/2022
 
-.xls 7053c10fc8ee8b9f27ba7cdcd6a14bda48fa75df99adfb421be7f9ebe0e64e2f
+.xls 7ab973b110b88c849cdfeeb660488e3f87b1542320a4fe39e4c46bcd08658e06
 
 .dll 7053c10fc8ee8b9f27ba7cdcd6a14bda48fa75df99adfb421be7f9ebe0e64e2f
 
