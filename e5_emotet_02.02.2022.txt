@@ -14,7 +14,17 @@ rundll32.exe ..\iix.ocx,D"&"l"&"lR"&"egister"&"Serve"&"r
 
 rundll32.exe "C:\Users\Admin\iix.ocx",DllRegisterServer
 
-GET: https://173.203.78.138/eFTsPeMhxFeGpRgyUsYRQcdznmhqBQCGgWxOafiPXhgkYhsGiCLUTjFRJjCySfJ
+GET: hxxps://173.203.78.138/eFTsPeMhxFeGpRgyUsYRQcdznmhqBQCGgWxOafiPXhgkYhsGiCLUTjFRJjCySfJ
+
+*** 
+
+Additonal .dll drops
+
+https://www.preferredsupports.com/cli/rK9sG2/
+https://homdecorstation.com/wazf7j/tP4PH/
+https://savagerefinisherinc.com/cgi-bin/Ny1/
+https://haqsonsgroup.com/css/LBHRIu/
+https://lauramarshall.com/cgi-bin/sxS8ctblr/
 
 c2's
 
