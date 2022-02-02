@@ -1,6 +1,6 @@
 Emotet 2022
 
-First payload 02.02.2022
+Second payload (New TTP's) 02.02.2022
 
 Epoch4 - .xls > .dll
 
