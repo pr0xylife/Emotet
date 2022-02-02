@@ -1,8 +1,31 @@
 Emotet 2022
 
+e5 - (second payload)
+
+.xlsx 368c8e9e5c3273d52514a8418bb9b9afc0c71709659e25d13128166e57feb937
+
+.dll 2aece35531ccb95fe5837975005175f15d0d728b00d6fccff451e75804136f88
+
+C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\Message-2692.xlsm
+
+C:\Windows\SysWow64\rundll32.exe ..\iix.ocx,D"&"l"&"lR"&"egister"&"Serve"&"r
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Users\Admin\iix.ocx",DllRegisterServer
+
+C:\Windows\SysWOW64\rundll32.exe C:\Windows\SysWOW64\Eayrivwujhwqyyck\eghzehtntkawqq.eqo,zWEeAQZvyy
+
+C:\Windows\SysWOW64\rundll32.exe C:\Windows\System32\Eayrivwujhwqyyck\eghzehtntkawqq.eqo,DllRegisterServer
+
+
+http://schemas.openxmlformats.org/spreadsheetml/2006/main
+http://revueagricole.com/wp-admin/iJDi9Hbqe/
+https://sudaneseacademy.com/wp-admin/VjXNzK7L0uuJsdM9PKi/
+http://galabet.blog/2np65ok/IZgE/
+https://didorenko.org/review/cAAweb70J2VO/
+
 ************************************************************************************************************
 
-Epoch5 - .xls > .dll
+Epoch5 - .xls > .dll (first)
 
 .xls 5d3eb57d2aed1ab7d4949710223bf45cdb1d75ea9dba02fbb65cdbc4af1d1794
 
