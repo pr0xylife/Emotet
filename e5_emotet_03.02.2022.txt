@@ -16,8 +16,6 @@ rundll32.exe C:\Windows\SysWOW64\Jxxrxsq\wkvp.nio",ltPxXjiFQHvfHCo
 
 rundll32.exe C:\Windows\System32\Jxxrxsq\wkvp.nio",DllRegisterServer
 
-GET: hxxps://172.105.115.71/UJhuDGCYdUWaqpFhuDiVRdPXqlQBfUeQGOLhMNPbNclZUSeHcXny
-
 .dll distro
 
 hxxp://docs-construction.com/wp-admin/a0mJP2Adw5YTHt/
