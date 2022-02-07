@@ -1,8 +1,24 @@
 Emotet 2022 - 07.02.2022 - epoch5
 
+.xls 1f3c036a1002867cc94a49f46b0e376a9610612ef43a5aecb383337995dd909b
+
+.dll df74062200f197a2fb8a5bc63b950e2ec9425005900cd2a1a273fdd53b1bc795
+
+rundll32.exe C:\Users\Admin\lnu.ocx,DllRegisterServer
+
+http://wyldfyrearabians.com/cgi/1HyEagziS/
+https://www.madridvisits.com/e7gnd/pXk/
+http://tatatrucksblog.tatamotors.com/wp-includes/ttywllmLfAdU51d5O/
+http://pickuptnblog.tatamotors.com/iyc6qmm/11lz0UGDvT/
+https://shejiguanjia.com/wp-includes/PjsuDhy5/
+
+************************************************************************************************************
+
 .xls d3e5a5263f834430738ea41cac59e3b0e8802981bbe8a9dd750b67125049ada2
 
 .dll 639c29b32a556028e7e22996579ac2de94e104629b1a7b9da5c1372ce684759d
+
+rundll32.exe C:\Users\Admin\dwd1.ocx,DllRegisterServer
 
 http://tan4j.com/wp-content/eeKyqAfNAS0VWzH/
 https://arkdiversified.com/b/cwiXC/
