@@ -97,7 +97,7 @@ c2's
 178.79.147.66:8080
 131.100.24.231:80
 
-Additonal .dll files provided by @fr0s7_
+Additonal .dll file hashes provided by @fr0s7_
 
 9e20e07a48486efef9ed29256e12e1a0
 68428f7d3e2f20a05869dc6ef26414be
