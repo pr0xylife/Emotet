@@ -3,6 +3,9 @@ Emotet 2022 | epoch5 | 21.03.2022 |
 ************************************************************************************************************
 
 .xls 2ecc2a48fa4eadb80367f69799277c54a0fe6dd2220a6a2dd7b81cfba328ed19
+.dll 637abe06f51f2def7bd73103d7ebc5d362a726ac6b735e28d19a02455d5419a7
+
+.xls 2ecc2a48fa4eadb80367f69799277c54a0fe6dd2220a6a2dd7b81cfba328ed19
 .dll 28205a4d8eedf220cc6eb85712f891ed79210f002939feee6f9be51cfcb5a0f4
 
 .xls 31b56da1bbc2d19241528d58ac177f88d28a7cb4de49446c7c4a042ee06f7a46
@@ -39,6 +42,14 @@ https://www.crazy97.com/wp-includes/XbbGnN3Xabn7Z/
 https://grchen.top/wordpress/bIGq8phSAMn/
 https://onceintheflow.com/wp-includes/SimplePie/6XVotHuU/
 https://sarc.in/wp-admin/9IDe7r7/
+
+https://fikti.bem.gunadarma.ac.id/monon/OAH7XngpmWiT1vLkmP/
+https://mdmd.fun/wp-includes/Y00y/
+https://hotel-boehmerwaldhof.at/wp-admin/mmhZydbNdqVxzc/
+https://dnvqqk.cn/about/fW4aBbnaoOIDwjmpuqf/
+https://brutobrasil.com.br/pdf/SSscCUKBvL/
+https://appanwendung.com/wp-admin/dvDn7/
+https://camaravotuporanga.sp.gov.br/conteudo/LFT3r6eLqdvHvD/
 
 c2's
 
