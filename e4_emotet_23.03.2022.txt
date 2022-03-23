@@ -5,7 +5,7 @@ Emotet 2022 | epoch4 | 23.03.2022 |
 .xls 8d3ba952eed9cfe2ccfa5133ed236695b79eaf5bc76fc2affaed53ca8baba543
 .dll 9ab9ed91e0eacdd7e11e410d7004b8d3d8adaf11d15eabf7ea83f16caa9abe1d
 
-EXCEL.EXE  C:\Users\Admin\AppData\Local\Temp\Details to update.xls
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Details to update.xls
 
 C:\Windows\SysWow64\regsvr32.exe -s ..\lnau.dll
 
