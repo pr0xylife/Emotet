@@ -3,6 +3,25 @@ Emotet 2022 | epoch4 | 23.03.2022 |
 ************************************************************************************************************
 
 .xls d9a0aa5f99d919e690520b45b2d347fea866d803661fa7f4662061b18eeb1d80
+.dll 9ab9ed91e0eacdd7e11e410d7004b8d3d8adaf11d15eabf7ea83f16caa9abe1d
+
+EXCEL.EXE  C:\Users\Admin\AppData\Local\Temp\Details to update.xls
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\lnau.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ytqhgzwngu\vqcfw.jdh
+
+https://www.certika-bolivia.com/omeltxveatup/9Gb/
+https://www.chotdonhang.com/noi-dung/w1hMfkjuwAne4W2epiP/
+https://www.cristianleyton.com/wp-includes/y3Ug/
+https://www.cfoodsnepal.com/index/rvAYVKkJgVWiCwt0wV/
+https://www.charmingsoftech.com/css/mJQYPVknv/
+https://www.cgaei.com/fonts/ABuQi/
+https://www.cnrgroup.co.uk/cgi-bin/iRHPslY/
+
+************************************************************************************************************
+
+.xls d9a0aa5f99d919e690520b45b2d347fea866d803661fa7f4662061b18eeb1d80
 .dll a2398435665f739741f2e7decd588a25d29db043295a27fbe95b4ac20536666e
 
 ************************************************************************************************************
@@ -28,6 +47,7 @@ https://he.adar-and-ido.com/wp-admin/xk7D/
 https://al-brik.com/vb/mMQlbHPCX/
 https://www.digigoal.fr/wp-admin/VfU0aIj/
 https://apexcreative.co.kr/adm/VdiKTcljSBORQRrsh66X/
+
 
 c2's
 
