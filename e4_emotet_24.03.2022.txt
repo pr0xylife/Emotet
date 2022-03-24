@@ -2,6 +2,7 @@ Emotet 2022 | epoch4 | 24.03.2022 |
 
 ************************************************************************************************************
 
+.xls 904b25100d4a0e8563ed0fe534ae2ca2ee43d9f510369fa5db4b926fd50de8ef
 .xls ef5c8ecd7acddbcee7469825744992090a6d232c1ccb5598d1beffa8816efab4
 .xls 6222d53b7144ccc05d5dda8447155dd26a751c703204864e9a1ca06e36c378dd
 .dll 17aaa2ba5cf84813a5822cb4c703c4931ff5671df3fb1885a6eda25496dd3bf8
@@ -28,7 +29,6 @@ https://debroadlink.com/brochure/D/
 https://hranenie.pereezd-24.com/1/uEibuIqhZi4oua/
 https://dijicom.net/error/5xzXdD/dijicom.net/error/5xzXdD/								
 					
-
 c2's
 
 51.91.76.89:8080
