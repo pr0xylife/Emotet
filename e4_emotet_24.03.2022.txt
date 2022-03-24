@@ -11,7 +11,7 @@ https://dacentec2.layeredserver.com/speedtest/yjnnw/
 https://datie-tw.com/test/yXPr0DO/
 https://dcphoto01.com/wp-admin/J/
 
-c2:
+New C2's
 
 70.36.102.35:443
 92.240.254.110:8080
