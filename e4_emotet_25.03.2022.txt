@@ -2,6 +2,28 @@ Emotet 2022 | epoch4 | 25.03.2022 |
 
 ************************************************************************************************************
 
+.xls 4a7f07b0cc1236dd1cab41db70f53dc6634223669fd67f0815e70f6747243f70
+.dll 5c2aa1d00fd52a9be3d58863152d5a15c3e8a66c0e80e189c0f5e78fa14fb6df
+
+Exec >
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\2022-03-25_1408-Balance_Payment_Report.xls
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\adw.dll
+
+************************************************************************************************************
+
+.dll
+
+http://clipacc.com/img/doXw68d7bqxxhwuxNb0N/
+http://mulmatdol.com/adm/YO7lpLlRnPIM/
+http://clanwatson.co.uk/personal/DxlCbK5yxbqq1jqP/
+http://chadhymas.com/wp-admin/yo11rETlmzRqZlC56B/
+http://fmesperanza945.com/fonts/Mta/
+https://classicpaint.net/wp-content/Vx6iP4KOyoZuiwsyW/
+
+************************************************************************************************************
+
 .zip 86035297056fb70888889e8934993fd8614b23346b20894569eb2a6d88267fc9
 .xls 0f5489490d024359de7ae807cb25534096e1350a8eb1ebc25e48d8055d5b83c5
 .dll e188f1fcd58cbd57a3a7a15cb1c3d8ae83bcb2070d421e92939833e087e053d0
