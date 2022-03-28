@@ -7,7 +7,7 @@ Emotet 2022 | epoch4 | 28.03.2022 |
 
 ************************************************************************************************************
 
-EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\sandpconstruction.com.xls
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\invoice.xls
 
 C:\Windows\SysWow64\regsvr32.exe -s ..\fbd.dll
 
