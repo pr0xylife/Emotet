@@ -2,6 +2,26 @@ Emotet 2022 | epoch4 | 28.03.2022 |
 
 ************************************************************************************************************
 
+.xls f38411e5fafc6b886e79d3a5369047d48beac4c9a5f39d293940601832241598
+.dll 5b58a8445c8e7377c21cac82e47d1bdcdc99f7631599ad64e8f2e862511fb941
+
+************************************************************************************************************
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\sandpconstruction.com.xls
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\fbd.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s C:\Windows\SysWOW64\Ufoiaynzgpl\riutrkdrcmbxgzr.ach
+
+http://www.forensisbilisim.com/ankara/bplsmKfaKAwAyavNj/
+http://www.fahriefe.com.tr/yargitaykararlari/aVg/
+https://www.whow.fr/wp-includes/aZo78JmHBoEmW6fVQ/
+https://www.faitmaison.uk/wp-admin/BZMoK/
+http://www.parapetyrs.cz/wp-content/uploads/UTnG7GKKkZf/
+http://www.drcno.sk/_sub/FcEgwPugDI7wr2/
+
+************************************************************************************************************
+
 .xls de83f556c56ef4cb818e02713ad239374be43450dae73042f5e34b388f080dba
 .dll e690b6905fb7b5f3f28b93e31215fc64ff27f4fa1674699831fd36bd38e55fa8
 
