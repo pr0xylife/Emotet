@@ -2,6 +2,18 @@ Emotet 2022 | epoch4 | 28.03.2022 |
 
 ************************************************************************************************************
 
+.xls de83f556c56ef4cb818e02713ad239374be43450dae73042f5e34b388f080dba
+.dll e690b6905fb7b5f3f28b93e31215fc64ff27f4fa1674699831fd36bd38e55fa8
+
+http://dharian.org/_sharedtemplates/D3QgytUZsO7korYQrG/
+http://www.construlandia.com/templates/BrRf8QDloUqNyTAdXE/
+http://portrettenbeeld.nl/layouts/sfGsF/
+http://digitalripple.com/scripts/4ovLPfq/
+https://dembek.co.za/sass/30C/
+http://www.die13weizen.at/error/aM099L/
+
+************************************************************************************************************
+
 .xls 50861a98f2388a86d681ea20f9efed293182e28a1d748d71a15c1ed85991e8d7
 .dll e95a2fc2a8e2771b1c8a210518f959ba6dcc60649be205890600ac131074b0cf
 .dll 867a2c059fa089baedf5c2cb65cda586395248e62b6478687d928404852892f3
