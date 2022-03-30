@@ -2,6 +2,30 @@ Emotet 2022 | epoch4 | 30.03.2022 |
 
 ************************************************************************************************************
 
+.xls 0629ED421025185F6D11AF39101C88CC6D6C1B3D6BF659238B5FB82AF185A9E3
+.dll 14432d4da963edbcbfce46b0e739bec0d86ec6e2202f0700a09873a64c282deb
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\2022-03-30_1251.xls
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\urtj.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Kcavz\rlwuik.idz"
+
+************************************************************************************************************
+
+https://www.gessersh.com/wp-includes/ZwQLepW/
+https://www.fantasticmotion.jp/_cnskin/qfWEQrrwBg/
+https://fcelik.nl/rittenregistratie/web/css/B3ILfU8Xk2SsEmT/
+http://www.garantihaliyikama.com/wp-admin/FjgB6I/
+http://dmcontabilidade.com/correspondentecaixa/TrS/
+http://fanfield.co.uk/cgi-bin/7pp6DjWFNJXY8/
+
+************************************************************************************************************
+
 .zip 03BE6E921145B3B838041BD53CE0E542870F12762EF43496798E3C389BE458AD
 .xls 47e3d200b4dedb791e44898fa7f81fc863beac90b663e9ba7639e3b0d8f49c64
 .dll f06c3af6361f12b6024a31c5e1cb9c4b1ad45652b1b23843c9f3569b17a07f4e
