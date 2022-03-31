@@ -2,6 +2,39 @@ Emotet 2022 | epoch5 | 31.03.2022 |
 
 ************************************************************************************************************
 
+.zip D7892019D6AECFCB5AEE7EA2B634C0B3D331A06183F29B3FE8764AE316B28D81
+.xls 51f83bb615894e11bc64c975d619b723cffe7ff4f99448025b3e4da4f3f84db4
+.dll 7cdbaea2cd14e415e58f5dbcb2a0865b81a630fa0058339cb19efd6d91652e00
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\so 3103.xlsm
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\xewn.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Topvzrjhq\nwgkp.pkh"
+
+************************************************************************************************************
+
+.dll distro
+
+https://www.doh-designsection.com/Files/LXZv9wBqLH/
+http://draheimdesign.com/allyears_jdrf_video/DZEUcZ5/
+http://dunyaaslan.com/cgi-bin/IwvOXl/
+https://www.centurypapers.com/database-wordpres/VDYOi/
+http://fontecmobile.com/pk/tRqU7/
+http://dusangerzicgera.com/img/4v7QHP/
+https://www.doh-designsection.com/Files/LXZv9wBqLH/
+http://draheimdesign.com/allyears_jdrf_video/DZEUcZ5/
+http://fontecmobile.com/pk/tRqU7/
+http://dunyaaslan.com/cgi-bin/IwvOXl/
+http://dusangerzicgera.com/img/4v7QHP/
+http://www.centurypapers.com/database-wordpres/VDYOi/
+
+************************************************************************************************************
+
 .zip 7006A1D713D4E369C588EEF3F1ED0999DE768FF86F7CC36EDACD45FB29BAA32F
 .xls 4883af21678508f6a3e631248a45f711eb168847ff3534a977e57fdc844c4133
 .dll ea28624ff2644d6bbafea9df6c5def9bd8a32851edb071dec0b21fb9556958ac
