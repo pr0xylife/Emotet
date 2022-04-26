@@ -2,7 +2,7 @@ Emotet 2022 | epoch4 | 26.04.2022 |
 
 ************************************************************************************************************
 
-.xls b1aa55c4df66af4890dd05fbef0907983d80bd3ee891ad7de546a093a1e7fe78
+.zip 248817294be23592026db6f274e74c02879fdcff6ef8daa1aa14ba1db768d05f (lnk)
 .dll 786bc22448b4847e784ec3506066701d28f51a5cea7873a89c9306fa7b9b5f68
 .dll b93b8cf9913afec26cbad4c06e1e352e3cd8d5693c7afbda0d99d258bdde26a4
 .dll f1486500fb3e4f217502da8162130552ea9a4edc6ca240d9783ea18559726aa9
